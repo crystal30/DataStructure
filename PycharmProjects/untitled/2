@@ -1,0 +1,15 @@
+'''
+4 3
+10 3 7 5
+
+
+'''
+
+l = input().strip().split(' ')
+l_int = [int(_) for _ in l]
+n = l_int[0]
+t = l_int[1]
+list1 = input().strip().split(' ')
+list_int = [int(_) for _ in list1]
+list_end = list_int * t
+
