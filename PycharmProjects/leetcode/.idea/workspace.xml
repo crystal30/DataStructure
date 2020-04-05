@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8673070-d952-4eb2-945c-057b9ff5ea28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/215.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySort/215.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/75.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySort/75.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/88.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySort/88.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +84,7 @@
     <SUITE FILE_PATH="coverage/leetcode$438.coverage" NAME="438 Coverage Results" MODIFIED="1573747700947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$ReverseLinkedList92.coverage" NAME="ReverseLinkedList92 Coverage Results" MODIFIED="1540632176517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$290.coverage" NAME="290 Coverage Results" MODIFIED="1573976595149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$75_1.coverage" NAME="75_1 Coverage Results" MODIFIED="1585229614636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySort" />
     <SUITE FILE_PATH="coverage/leetcode$2.coverage" NAME="2两数相加 Coverage Results" MODIFIED="1574601966224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$131.coverage" NAME="131分割回文串 Coverage Results" MODIFIED="1578139960680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$27.coverage" NAME="27 Coverage Results" MODIFIED="1572708150472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -115,8 +117,8 @@
     <SUITE FILE_PATH="coverage/leetcode$71.coverage" NAME="71简化路径 Coverage Results" MODIFIED="1574957599136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks&amp;Queues" />
     <SUITE FILE_PATH="coverage/leetcode$maxPoints149.coverage" NAME="maxPoints149 Coverage Results" MODIFIED="1540386124511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$twoSum1.coverage" NAME="twoSum1 Coverage Results" MODIFIED="1539826643991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
-    <SUITE FILE_PATH="coverage/leetcode$76.coverage" NAME="76 Coverage Results" MODIFIED="1573910938904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$472.coverage" NAME="47全排列2 Coverage Results" MODIFIED="1578496918464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
+    <SUITE FILE_PATH="coverage/leetcode$76.coverage" NAME="最小覆盖子串76 Coverage Results" MODIFIED="1585243135897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collision_pointer&amp;sliding_window" />
     <SUITE FILE_PATH="coverage/leetcode$236.coverage" NAME="236二叉树的最近公共祖先 Coverage Results" MODIFIED="1577376473332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$removeDuplicates80.coverage" NAME="removeDuplicates80 Coverage Results" MODIFIED="1538969725640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$147.coverage" NAME="147对链表进行插入排序 Coverage Results" MODIFIED="1574691375935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
@@ -168,99 +170,43 @@
     <session id="58154746">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="64630" />
+          <entry key="py" value="67457" />
+          <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="64630" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="67457" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="121" />
+          <entry key="py" value="128" />
+          <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="121" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="128" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/46全排列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding>
-                <marker date="1578142313385" expanded="true" signature="39:66" ph="..." />
-                <marker date="1578142313385" expanded="true" signature="90:157" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/47全排列2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-              <folding>
-                <marker date="1578497131973" expanded="true" signature="39:91" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/77组合.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
-              <folding>
-                <marker date="1578664787676" expanded="true" signature="39:100" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-              <folding>
-                <marker date="1578669166663" expanded="true" signature="71:208" ph="..." />
-                <marker date="1578669166663" expanded="true" signature="253:262" ph="..." />
-                <marker date="1578669166663" expanded="true" signature="528:537" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <marker date="1579344889890" expanded="true" signature="71:191" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/216组合总数3.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -269,8 +215,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySort/75_1.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySort/88.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="76" column="11" lean-forward="true" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+              <folding>
+                <marker date="1585243299520" expanded="true" signature="1349:1560" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/heapq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11506">
+              <caret line="523" selection-start-line="523" selection-end-line="582" selection-end-column="33" />
+              <folding>
+                <element signature="e#20823#22538#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySort/75.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2112">
+              <caret line="96" column="32" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -279,12 +276,12 @@
         <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -292,8 +289,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/973.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="308">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -326,11 +323,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Stacks&amp;Queues/20有效的括号.py" />
-        <option value="$PROJECT_DIR$/Stacks&amp;Queues/71简化路径.py" />
-        <option value="$PROJECT_DIR$/Stacks&amp;Queues/144二叉树的前序遍历.py" />
-        <option value="$PROJECT_DIR$/Stacks&amp;Queues/94二叉树的中序遍历.py" />
-        <option value="$PROJECT_DIR$/Stacks&amp;Queues/145二叉树的后序遍历.py" />
         <option value="$PROJECT_DIR$/Stacks&amp;Queues/341扁平化嵌套列表迭代器.py" />
         <option value="$PROJECT_DIR$/Queue/102二叉树的层序遍历.py" />
         <option value="$PROJECT_DIR$/Queue/102二叉树的层序遍历2.py" />
@@ -377,6 +369,11 @@
         <option value="$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py" />
         <option value="$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py" />
         <option value="$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py" />
+        <option value="$PROJECT_DIR$/aaaa.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" />
+        <option value="$PROJECT_DIR$/MySort/75_1.py" />
+        <option value="$PROJECT_DIR$/collision_pointer&amp;sliding_window/76.py" />
+        <option value="$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py" />
       </list>
     </option>
   </component>
@@ -386,10 +383,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="801" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -403,11 +399,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Recursion&amp;backtracking" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -426,6 +417,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MySort" />
       <recent name="$PROJECT_DIR$/Find" />
       <recent name="$PROJECT_DIR$/UsingArray/MoveElements" />
       <recent name="$PROJECT_DIR$" />
@@ -443,29 +435,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.90子集2">
-    <configuration name="39组合总数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion&amp;backtracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.最小覆盖子串76">
     <configuration name="40组合总和2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -488,7 +458,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="77组合" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="75_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -496,12 +466,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion&amp;backtracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion&amp;backtracking/77组合.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySort/75_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最小覆盖子串76" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collision_pointer&amp;sliding_window" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -555,19 +547,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.77组合" />
-      <item itemvalue="Python.39组合总数" />
       <item itemvalue="Python.40组合总和2" />
       <item itemvalue="Python.78子集" />
       <item itemvalue="Python.90子集2" />
+      <item itemvalue="Python.75_1" />
+      <item itemvalue="Python.最小覆盖子串76" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.最小覆盖子串76" />
+        <item itemvalue="Python.75_1" />
         <item itemvalue="Python.90子集2" />
         <item itemvalue="Python.78子集" />
         <item itemvalue="Python.40组合总和2" />
-        <item itemvalue="Python.39组合总数" />
-        <item itemvalue="Python.77组合" />
       </list>
     </recent_temporary>
   </component>
@@ -594,10 +586,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="801" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.17811158" />
-      <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" weight="0.21888413" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7075589" visible="true" weight="0.19241774" />
+      <window_info id="Structure" order="1" sideWeight="0.29244113" side_tool="true" visible="true" weight="0.19241774" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -879,42 +872,42 @@
           <option name="timeStamp" value="235" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/75.py</url>
+          <url>file://$PROJECT_DIR$/MySort/75.py</url>
           <line>111</line>
           <option name="timeStamp" value="236" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/88.py</url>
+          <url>file://$PROJECT_DIR$/MySort/88.py</url>
           <line>65</line>
           <option name="timeStamp" value="238" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/88.py</url>
+          <url>file://$PROJECT_DIR$/MySort/88.py</url>
           <line>8</line>
           <option name="timeStamp" value="240" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/88.py</url>
+          <url>file://$PROJECT_DIR$/MySort/88.py</url>
           <line>22</line>
           <option name="timeStamp" value="241" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/88.py</url>
+          <url>file://$PROJECT_DIR$/MySort/88.py</url>
           <line>7</line>
           <option name="timeStamp" value="242" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/88.py</url>
+          <url>file://$PROJECT_DIR$/MySort/88.py</url>
           <line>6</line>
           <option name="timeStamp" value="243" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/215.py</url>
+          <url>file://$PROJECT_DIR$/MySort/215.py</url>
           <line>32</line>
           <option name="timeStamp" value="248" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/215.py</url>
+          <url>file://$PROJECT_DIR$/MySort/215.py</url>
           <line>33</line>
           <option name="timeStamp" value="249" />
         </line-breakpoint>
@@ -1392,6 +1385,21 @@
           <line>28</line>
           <option name="timeStamp" value="419" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1403,14 +1411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Stacks&amp;Queues/94二叉树的中序遍历.py" />
-    <entry file="file://$PROJECT_DIR$/Stacks&amp;Queues/145二叉树的后序遍历.py" />
-    <entry file="file://$PROJECT_DIR$/Stacks&amp;Queues/341扁平化嵌套列表迭代器.py" />
-    <entry file="file://$PROJECT_DIR$/Queue/102二叉树的层序遍历2.py" />
-    <entry file="file://$PROJECT_DIR$/Queue/102二叉树的层序遍历.py" />
-    <entry file="file://$PROJECT_DIR$/Queue/107二叉树的层序遍历2.py" />
-    <entry file="file://$PROJECT_DIR$/Queue/103二叉树的锯齿形层序遍历.py" />
-    <entry file="file://$PROJECT_DIR$/Queue/199二叉树的右视图.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -1615,9 +1615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <marker date="1577282680797" expanded="true" signature="226:313" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1648,27 +1645,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/973.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/46全排列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <marker date="1578142313385" expanded="true" signature="39:66" ph="..." />
-            <marker date="1578142313385" expanded="true" signature="90:157" ph="..." />
-          </folding>
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/47全排列2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
+        <state relative-caret-position="660">
           <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
             <marker date="1578497131973" expanded="true" signature="39:91" ph="..." />
@@ -1676,20 +1662,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/77组合.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
           <folding>
             <marker date="1578664787676" expanded="true" signature="39:100" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aaaa.py" />
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        <state relative-caret-position="770">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
           <folding>
             <marker date="1578669166663" expanded="true" signature="71:208" ph="..." />
             <marker date="1578669166663" expanded="true" signature="253:262" ph="..." />
@@ -1701,7 +1695,7 @@
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <marker date="1579344889890" expanded="true" signature="71:191" ph="..." />
           </folding>
@@ -1713,20 +1707,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="418">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11506">
+          <caret line="523" selection-start-line="523" selection-end-line="582" selection-end-column="33" />
+          <folding>
+            <element signature="e#20823#22538#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySort/75.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="96" column="32" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/973.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySort/75_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/76.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySort/88.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="76" column="11" lean-forward="true" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+          <folding>
+            <marker date="1585243299520" expanded="true" signature="1349:1560" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
