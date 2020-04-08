@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8673070-d952-4eb2-945c-057b9ff5ea28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Queues/102二叉树的层序遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queues/102二叉树的层序遍历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queues/107二叉树的层序遍历2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queues/107二叉树的层序遍历2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queues/127单词接龙（图）.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queues/127单词接龙（图）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
     <SUITE FILE_PATH="coverage/leetcode$ValidAnagram242.coverage" NAME="ValidAnagram242 Coverage Results" MODIFIED="1539439179304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$FindAllAnagramsInaString438.coverage" NAME="FindAllAnagramsInaString438 Coverage Results" MODIFIED="1539347710203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$341.coverage" NAME="341扁平化嵌套列表迭代器 Coverage Results" MODIFIED="1575387385325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks&amp;Queues" />
-    <SUITE FILE_PATH="coverage/leetcode$127.coverage" NAME="127单词接龙（图） Coverage Results" MODIFIED="1575726745497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
+    <SUITE FILE_PATH="coverage/leetcode$127.coverage" NAME="127单词接龙（图） Coverage Results" MODIFIED="1586360238121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
     <SUITE FILE_PATH="coverage/leetcode$83.coverage" NAME="83 Coverage Results" MODIFIED="1574579717588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$77.coverage" NAME="77组合 Coverage Results" MODIFIED="1578584606802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$92.coverage" NAME="92 Coverage Results" MODIFIED="1574578708256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -102,7 +102,7 @@
     <SUITE FILE_PATH="coverage/leetcode$209.coverage" NAME="209 Coverage Results" MODIFIED="1573655027506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$26RemoveDuplicates.coverage" NAME="26RemoveDuplicates Coverage Results" MODIFIED="1538915622038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$3.coverage" NAME="3 Coverage Results" MODIFIED="1573659028451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$279.coverage" NAME="279完全平方数（图的广度遍历） Coverage Results" MODIFIED="1575707035897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue" />
+    <SUITE FILE_PATH="coverage/leetcode$279.coverage" NAME="279完全平方数（图的广度遍历） Coverage Results" MODIFIED="1586276639533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
     <SUITE FILE_PATH="coverage/leetcode$longestSubstr.coverage" NAME="longestSubstr Coverage Results" MODIFIED="1539158389309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$234.coverage" NAME="234回文链表 Coverage Results" MODIFIED="1574864885172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$902.coverage" NAME="90子集2 Coverage Results" MODIFIED="1580110994900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
@@ -181,44 +181,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="68047" />
+          <entry key="py" value="69304" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="68047" />
+          <entry key="Python" value="69304" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="137" />
+          <entry key="py" value="138" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="137" />
+          <entry key="Python" value="138" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding>
-                <marker date="1585243299520" expanded="true" signature="1349:1560" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Queues/102二叉树的层序遍历.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -250,11 +238,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="484">
+              <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+              <folding>
+                <element signature="e#65#579#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Queues/127单词接龙（图）.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="60" selection-end-column="16" />
+              <folding>
+                <element signature="e#1013#1758#0" />
+                <marker date="1586360238114" expanded="true" signature="1004:1910" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -262,8 +266,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/654843592/_collections.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="142" column="10" lean-forward="true" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
+            <state relative-caret-position="192">
+              <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -337,8 +341,6 @@
         <option value="$PROJECT_DIR$/Queue/103二叉树的锯齿形层序遍历.py" />
         <option value="$PROJECT_DIR$/Queue/199二叉树的右视图.py" />
         <option value="$PROJECT_DIR$/Queue/279完全平方数（图的广度遍历）.py" />
-        <option value="$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py" />
-        <option value="$PROJECT_DIR$/Queues/127单词接龙（图）.py" />
         <option value="$PROJECT_DIR$/Queues/126单词接龙2.py" />
         <option value="$PROJECT_DIR$/priprityQueues.py" />
         <option value="$PROJECT_DIR$/PriorityQueues/347前K个高频元素.py" />
@@ -383,6 +385,8 @@
         <option value="$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py" />
         <option value="$PROJECT_DIR$/Queues/102二叉树的层序遍历.py" />
         <option value="$PROJECT_DIR$/Queues/107二叉树的层序遍历2.py" />
+        <option value="$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py" />
+        <option value="$PROJECT_DIR$/Queues/127单词接龙（图）.py" />
       </list>
     </option>
   </component>
@@ -392,9 +396,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-1686" />
-    <option name="y" value="136" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="22" />
+    <option name="y" value="100" />
     <option name="width" value="1440" />
     <option name="height" value="801" />
   </component>
@@ -451,7 +455,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.107二叉树的层序遍历2">
+  <component name="RunManager" selected="Python.127单词接龙（图）">
     <configuration name="102二叉树的层序遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -496,7 +500,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="75_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="127单词接龙（图）" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -504,12 +508,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queues" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySort/75_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queues/127单词接龙（图）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="279完全平方数（图的广度遍历）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queues" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -540,42 +566,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="90子集2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion&amp;backtracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.90子集2" />
-      <item itemvalue="Python.75_1" />
       <item itemvalue="Python.最小覆盖子串76" />
       <item itemvalue="Python.102二叉树的层序遍历" />
       <item itemvalue="Python.107二叉树的层序遍历2" />
+      <item itemvalue="Python.279完全平方数（图的广度遍历）" />
+      <item itemvalue="Python.127单词接龙（图）" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.127单词接龙（图）" />
+        <item itemvalue="Python.279完全平方数（图的广度遍历）" />
         <item itemvalue="Python.107二叉树的层序遍历2" />
         <item itemvalue="Python.102二叉树的层序遍历" />
         <item itemvalue="Python.最小覆盖子串76" />
-        <item itemvalue="Python.75_1" />
-        <item itemvalue="Python.90子集2" />
       </list>
     </recent_temporary>
   </component>
@@ -602,15 +606,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1686" y="136" width="1440" height="801" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7061144" visible="true" weight="0.19527897" />
-      <window_info id="Structure" order="1" sideWeight="0.2938856" side_tool="true" visible="true" weight="0.19527897" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.705414" visible="true" weight="0.2353362" />
+      <window_info id="Structure" order="1" sideWeight="0.29458597" side_tool="true" visible="true" weight="0.2353362" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26093295" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22180916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36802974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1184,12 +1188,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py</url>
-          <line>25</line>
+          <line>49</line>
           <option name="timeStamp" value="344" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Queues/127单词接龙（图）.py</url>
-          <line>50</line>
+          <line>81</line>
           <option name="timeStamp" value="345" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1416,6 +1420,21 @@
           <line>22</line>
           <option name="timeStamp" value="428" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queues/127单词接龙（图）.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queues/127单词接龙（图）.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queues/127单词接龙（图）.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1427,16 +1446,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PriorityQueues/23合并K个排序链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <marker date="1575787995858" expanded="true" signature="187:373" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/111二叉树的最小深度.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
@@ -1754,13 +1763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/654843592/_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="142" column="10" lean-forward="true" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Queues/102二叉树的层序遍历.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1788,8 +1790,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="484">
+          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+          <folding>
+            <element signature="e#65#579#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/654843592/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queues/127单词接龙（图）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="60" selection-end-column="16" />
+          <folding>
+            <element signature="e#1013#1758#0" />
+            <marker date="1586360238114" expanded="true" signature="1004:1910" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
