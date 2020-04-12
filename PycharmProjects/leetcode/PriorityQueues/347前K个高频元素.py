@@ -3,7 +3,6 @@
 from collections import OrderedDict
 from collections import Counter
 import heapq
-from queue import PriorityQueue
 
 class Solution:
     # 有序字典法
@@ -22,14 +21,14 @@ class Solution:
 
         return re
 ################################
-
+# 根据heapq，编写自己的优先队列
 class my_PriorityQueue:
     def __init__(self):
         self._queue = []
         self._index = 0
 
     def push(self, item, priprity):
-        heapq.heappush(self._queue, (-priprity, self._index, item))
+        heapq.heappush(self._queue, (-priprity, item))
         self._index += 1
 
     def pop(self):
@@ -53,14 +52,48 @@ class Solution1:
 
         return re
 
-    #???? 尝试一下维护长度为k的优先队列
-    
+######################
+# 维护长度为k的优先队列
+class my_priority_queue_k:
+    def __init__(self, k):
+        self.q = []
+        self.size = 0
+        self.k = k
+
+    def push(self, e, priority):
+        heapq.heappush(self.q, (priority, e))
+        self.size += 1
+        if self.size > self.k:
+            self.pop()
+            self.size -= 1
+
+    def pop(self):
+        return heapq.heappop(self.q)[-1]
+
+class Solution2:
+    # 优先队列法
+    def topKFrequent(self, nums, k):
+        nums_dict = Counter(nums)
+        pq = my_priority_queue_k(k)
+        res = []
+        for key, value in nums_dict.items():
+            pq.push(key, value)
+
+        for _ in range(k):
+            res.insert(0, pq.pop())
+
+        return res
+
+# 思考，eg：nums = [4, 1, -1, 2, -1, 2, 3]， k = 2
+# 本题目的输出可以是[-1, 2] or [2, -1]
+# 假设输出需要从小到大排列呢
+
 if __name__ == "__main__":
-    so = Solution1()
+    so = Solution2()
     # nums = [1,1,1,2,2,3]
     # nums = [3, 3, 2, 2, 1, 1, 1]
     # k = 2
     nums =[4, 1, -1, 2, -1, 2, 3]
     k = 2
-    re = so.topKFrequent1_3(nums, k)
+    re = so.topKFrequent(nums, k)
     print(re)

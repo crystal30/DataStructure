@@ -30,9 +30,16 @@ class Solution:
         if root == None:
             return 0
 
-        leftmaxDepth = self.maxDepth(root.left)
-        rightmaxDepth = self.maxDepth(root.right)
+        leftmaxDepth = self.maxDepth1(root.left)
+        rightmaxDepth = self.maxDepth1(root.right)
 
         return max(leftmaxDepth, rightmaxDepth) + 1
 
+################
 
+    def maxDepth2(self, root: TreeNode):
+        if root == None:
+            return 0
+
+        deep = max(self.maxDepth2(root.left), self.maxDepth2(root.right)) + 1
+        return deep

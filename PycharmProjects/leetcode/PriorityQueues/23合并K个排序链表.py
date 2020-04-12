@@ -36,6 +36,8 @@ class Solution:
         else:
             return None
 
+# 注意语言的简练，不冗余
+
 if __name__ == "__main__":
     so = Solution()
     arr1 = [1,4,5]
