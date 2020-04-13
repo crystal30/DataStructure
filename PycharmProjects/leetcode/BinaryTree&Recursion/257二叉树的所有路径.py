@@ -37,15 +37,84 @@ class Solution:
 
         return l_re
 
-if __name__ == "__main__":
-    root = TreeNode(1)
-    root.left = TreeNode(2)
-    root.right = TreeNode(3)
-    root.left.right = TreeNode(5)
-    root.left.right.right = TreeNode(6)
+###############################
+# 用全局变量，似乎更好理解哦
+class Solution1:
+    def __init__(self):
+        self.res = []
 
-    so = Solution()
+    def binaryTreePaths(self, root: TreeNode):
+        if  root == None:
+            return []
+        self.binary_tree_path1(root, [])
+        return ["->".join(e) for e in self.res]
+
+    def binary_tree_path(self, root, path):
+        if root == None:
+            self.res.append(path)
+            return path
+
+        path.append(str(root.val))
+        if root.left == None and root.right == None:
+            self.res.append(path.copy())
+            return path
+
+        if root.left == None:
+            return self.binary_tree_path(root.right, path.copy())
+
+        if root.right == None:
+            return self.binary_tree_path(root.left, path.copy())
+
+        self.binary_tree_path(root.left, path.copy())
+        self.binary_tree_path(root.right, path.copy())
+        return path
+
+    # 这里return 为空也可以哦，因为我们这里用了全局变量，不需要返回东西。
+    def binary_tree_path1(self, root, path):
+        if root == None:
+            self.res.append(path)
+            return
+
+        path.append(str(root.val))
+        if root.left == None and root.right == None:
+            self.res.append(path.copy())
+            return
+
+        if root.left == None:
+            self.binary_tree_path(root.right, path.copy())
+            return
+
+        if root.right == None:
+            self.binary_tree_path(root.left, path.copy())
+            return
+
+        self.binary_tree_path1(root.left, path.copy())
+        self.binary_tree_path1(root.right, path.copy())
+        return
+
+    def create_tree(self, arr):
+        return self.__create_tree(arr, None, 0)
+
+    def __create_tree(self, arr, root, i):
+        if i >= len(arr):
+            return None
+
+        if arr[i] == None:
+            arr.insert(2*i+1, None)
+            arr.insert(2*i+2, None)
+            return None
+
+        root = TreeNode(arr[i])
+        root.left = self.__create_tree(arr, root.left, 2*i+1)
+        root.right = self.__create_tree(arr, root.right, 2*i+2)
+        return root
+
+if __name__ == "__main__":
+
+    so = Solution1()
+    arr = [1,2,3,None,5]
+    root = so.create_tree(arr)
     re = so.binaryTreePaths(root)
-    pass
+    print(re)
 
 

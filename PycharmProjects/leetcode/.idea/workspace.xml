@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8673070-d952-4eb2-945c-057b9ff5ea28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/101对称二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/101对称二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/104二叉树的最大深度.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/104二叉树的最大深度.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/110平衡二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/110平衡二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/111二叉树的最小深度.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/111二叉树的最小深度.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/112路径总和.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/112路径总和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/226翻转二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/226翻转二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PriorityQueues/23合并K个排序链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/PriorityQueues/23合并K个排序链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PriorityQueues/347前K个高频元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/PriorityQueues/347前K个高频元素.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queues/126单词接龙2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queues/126单词接龙2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +17,7 @@
     <SUITE FILE_PATH="coverage/leetcode$75.coverage" NAME="75 Coverage Results" MODIFIED="1572794401478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$125.coverage" NAME="125 Coverage Results" MODIFIED="1573572728462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$39.coverage" NAME="39组合总数 Coverage Results" MODIFIED="1578669166671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
-    <SUITE FILE_PATH="coverage/leetcode$257.coverage" NAME="257二叉树的所有路径 Coverage Results" MODIFIED="1576315134526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$257.coverage" NAME="257二叉树的所有路径 Coverage Results" MODIFIED="1586791803867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$2192.coverage" NAME="219存在重复元素2 Coverage Results" MODIFIED="1574512219111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$ReverseString344.coverage" NAME="ReverseString344 Coverage Results" MODIFIED="1539265908689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$testfunction.coverage" NAME="testfunction Coverage Results" MODIFIED="1573054184978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -196,26 +184,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="79470" />
+          <entry key="py" value="80551" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="79470" />
+          <entry key="Python" value="80551" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="153" />
+          <entry key="py" value="154" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="153" />
+          <entry key="Python" value="154" />
         </counts>
       </usages-collector>
     </session>
@@ -231,15 +219,6 @@
                 <element signature="e#25#60#0" expanded="true" />
                 <marker date="1586531238818" expanded="true" signature="1284:2027" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/104二叉树的最大深度.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -293,15 +272,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="-159">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding>
                 <marker date="1586708432313" expanded="true" signature="652:682" ph="..." />
                 <marker date="1586708432313" expanded="true" signature="732:781" ph="..." />
                 <marker date="1586708432313" expanded="true" signature="813:1268" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+              <folding>
+                <marker date="1586792007246" expanded="true" signature="216:273" ph="..." />
+                <marker date="1586792007246" expanded="true" signature="1015:1043" ph="..." />
+                <marker date="1586792007246" expanded="true" signature="1085:1228" ph="..." />
+                <marker date="1586792007246" expanded="true" signature="2523:2577" ph="..." />
               </folding>
             </state>
           </provider>
@@ -376,7 +370,6 @@
         <option value="$PROJECT_DIR$/Queue/199二叉树的右视图.py" />
         <option value="$PROJECT_DIR$/Queue/279完全平方数（图的广度遍历）.py" />
         <option value="$PROJECT_DIR$/priprityQueues.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py" />
         <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/113路径总和2.py" />
         <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/129求根到叶子节点数字之和.py" />
         <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/437路径总和3.py" />
@@ -421,6 +414,7 @@
         <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/110平衡二叉树.py" />
         <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/112路径总和.py" />
         <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py" />
+        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py" />
       </list>
     </option>
   </component>
@@ -488,29 +482,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.404左叶子之和">
-    <configuration name="100相同的树" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.257二叉树的所有路径">
     <configuration name="110平衡二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -577,6 +549,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="257二叉树的所有路径" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="404左叶子之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -600,19 +594,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.100相同的树" />
       <item itemvalue="Python.222完全二叉树的节点个数" />
       <item itemvalue="Python.110平衡二叉树" />
       <item itemvalue="Python.112路径总和" />
       <item itemvalue="Python.404左叶子之和" />
+      <item itemvalue="Python.257二叉树的所有路径" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.257二叉树的所有路径" />
         <item itemvalue="Python.404左叶子之和" />
         <item itemvalue="Python.112路径总和" />
         <item itemvalue="Python.110平衡二叉树" />
         <item itemvalue="Python.222完全二叉树的节点个数" />
-        <item itemvalue="Python.100相同的树" />
       </list>
     </recent_temporary>
   </component>
@@ -642,12 +636,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.55981594" visible="true" weight="0.2353362" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55981594" visible="true" weight="0.2353362" />
       <window_info id="Structure" order="1" sideWeight="0.44018406" side_tool="true" visible="true" weight="0.2353362" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1920694" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1920694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34448576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1291,7 +1285,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py</url>
-          <line>48</line>
+          <line>117</line>
           <option name="timeStamp" value="371" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1508,6 +1502,11 @@
           <line>61</line>
           <option name="timeStamp" value="451" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1519,7 +1518,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking.py" />
     <entry file="file://$PROJECT_DIR$/tt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1905,12 +1903,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="-159">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
             <marker date="1586708432313" expanded="true" signature="652:682" ph="..." />
             <marker date="1586708432313" expanded="true" signature="732:781" ph="..." />
             <marker date="1586708432313" expanded="true" signature="813:1268" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+          <folding>
+            <marker date="1586792007246" expanded="true" signature="216:273" ph="..." />
+            <marker date="1586792007246" expanded="true" signature="1015:1043" ph="..." />
+            <marker date="1586792007246" expanded="true" signature="1085:1228" ph="..." />
+            <marker date="1586792007246" expanded="true" signature="2523:2577" ph="..." />
           </folding>
         </state>
       </provider>
