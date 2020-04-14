@@ -113,8 +113,16 @@ if __name__ == "__main__":
 
     so = Solution1()
     arr = [1,2,3,None,5]
-    root = so.create_tree(arr)
-    re = so.binaryTreePaths(root)
-    print(re)
+    # root = so.create_tree(arr)
+    # re = so.binaryTreePaths(root)
+    # print(re)
+
+    def multiplier():
+        ret = [lambda x: i*x for i in range(4)]
+        return ret
+
+    print([m(2) for m in multiplier()])
+
+    print(list(filter(lambda n: n%2 == 1, range(1, 10))))
 
 
