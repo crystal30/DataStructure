@@ -33,19 +33,59 @@ class Solution:
 
         return l_re + r_re + re
 
+from copy import copy
+class Solution1:
+    def create_tree(self, arr):
+        return self._create_tree(arr, None, 0)
+
+    def _create_tree(self, arr, root, i):
+        if i >= len(arr):
+            return None
+        if arr[i] == None:
+            arr.insert(2 * i + 1, None)
+            arr.insert(2 * i + 2, None)
+            return None
+
+        root = TreeNode(arr[i])
+        root.left = self._create_tree(arr, root.left, 2 * i + 1)
+        root.right = self._create_tree(arr, root.right, 2 * i + 2)
+        return root
+
+
+    def pathSum(self, root: TreeNode, sum: int):
+        if root == None:
+            return 0
+
+        print("进循环：", root.val)
+        rel = self.pathSum(root.left, sum)
+        rer = self.pathSum(root.right, sum)
+        re = self._path_sum(root, sum)
+        print("出循环：", root.val, re + rel + rer)
+        return re + rel + rer
+
+    def _path_sum(self, root, sum):
+        re = 0
+        if root == None:
+            return 0
+
+        print("进：", root.val, sum)
+        sum -= root.val
+        if sum == 0:
+            re += 1
+
+        lre = self._path_sum(root.left, sum)
+        rre = self._path_sum(root.right, sum)
+        print("出：", root.val, sum, re)
+        return re + lre + rre
+
 if __name__ == "__main__":
-    root = TreeNode(10)
-    root.left = TreeNode(5)
-    root.right = TreeNode(-3)
+    arr = [10,5,-3,3,2,None,11,3,-2,None,1]
+    arr1 = [5, 3, 2, 3, -2, None, 1]
+    arr2 = [3, -2, 2]
+    arr3 = [2, None, 8]
+    arr4 = [-3, None, 11]
 
-    root.left.left = TreeNode(3)
-    root.left.right = TreeNode(2)
-    root.right.right = TreeNode(11)
-
-    root.left.left.left = TreeNode(3)
-    root.left.left.right = TreeNode(-2)
-    root.left.right.right = TreeNode(1)
-
-    so = Solution()
-    re = so.pathSum(root, 8)
-    pass
+    so = Solution1()
+    root = so.create_tree(arr1)
+    re = so._path_sum(root, 8)
+    print(re)

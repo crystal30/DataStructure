@@ -50,6 +50,48 @@ class Solution:
         Node.left = self.del_min_node(Node.left)
         return Node
 
+class Solution1:
+    def deleteNode(self, root: TreeNode, key: int) -> TreeNode:
+        if root == None:
+            return root
+
+        if root.val > key:
+            root.left = self.deleteNode(root.left, key)
+            return root
+        elif root.val < key:
+            root.right = self.deleteNode(root.right, key)
+            return root
+        else:
+            if root.left == None and root.right == None:
+                return None
+
+            if root.left == None:
+                return root.right
+
+            if root.right == None:
+                return root.left
+
+            Node = self.re_min_node(root.right)
+            Node.right = self.del_min_node(root.right)
+            Node.left = root.left
+            return Node
+
+    # 返回右子树中最小的节点
+    # 最先输入的Node不为None
+    def re_min_node(self, Node):
+        if Node.left == None:
+            return Node
+
+        return self.re_min_node(Node.left)
+
+    # 删除右边子树中最小的节点
+    # 最初始的node不为空
+    def del_min_node(self, Node):
+        if Node.left == None:
+            return Node.right
+
+        Node.left = self.del_min_node(Node.left)
+
 
 if __name__ == "__main__":
     root = TreeNode(5)
@@ -61,6 +103,6 @@ if __name__ == "__main__":
 
     root.right.right = TreeNode(7)
 
-    so = Solution()
+    so = Solution1()
     re = so.deleteNode(root, 3)
     pass

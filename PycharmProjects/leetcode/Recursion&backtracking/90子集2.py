@@ -23,8 +23,32 @@ class Solution:
 
         return res
 
+from copy import copy
+class Solution1:
+    def subsetsWithDup(self, nums):
+        nums.sort()
+        len_nums = len(nums)
+        return self._subset(nums, len_nums, 0, [[]])
+
+    def _subset(self, nums, len_nums, start, sub_re):
+        if start == len_nums:
+            return sub_re
+
+        for i in range(start, len_nums):
+            temp = []
+            for e in sub_re:
+                new_e = copy(e)
+                new_e.append(nums[i])
+                temp.append(new_e)
+
+            for temp_e in temp:
+                if temp_e not in sub_re:
+                    sub_re.append(temp_e)
+            sub_re = self._subset(nums, len_nums, i+1, sub_re)
+            return sub_re
+
 if __name__ == "__main__":
-    so = Solution()
+    so = Solution1()
     nums = [1,2,2]
     re = so.subsetsWithDup(nums)
     print(re)

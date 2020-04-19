@@ -30,3 +30,34 @@ class Solution:
         re_l.extend(re_r)
         return re_l
 
+
+class Solution1:
+    def __init__(self):
+        self.sum = 0
+
+    def sumNumbers(self, root: TreeNode):
+        self._sum_numbers(root, 0) # root == None
+        return self.sum
+
+    def _sum_numbers(self, root, path_sum):
+        if root == None:
+            self.sum += path_sum
+            return
+
+        path_sum = path_sum*10 + root.val
+        if root.left == None:
+            self._sum_numbers(root.right, path_sum)
+
+        elif root.right == None:
+            self._sum_numbers(root.left, path_sum)
+
+        else:
+            self._sum_numbers(root.left, path_sum)
+            self._sum_numbers(root.right, path_sum)
+
+        return
+
+
+
+
+
