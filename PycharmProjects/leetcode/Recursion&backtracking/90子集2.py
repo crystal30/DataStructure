@@ -47,8 +47,32 @@ class Solution1:
             sub_re = self._subset(nums, len_nums, i+1, sub_re)
             return sub_re
 
+class Solution3:
+    def __init__(self):
+        self.res = []
+    def subsetsWithDup(self, nums):
+        sort_nums = sorted(nums)
+        self._sub_set(sort_nums, 0, [])
+        return self.res
+
+    def _sub_set(self, nums, start_i, re):
+        self.res.append(re)
+
+        while start_i < len(nums):
+            e = nums[start_i]
+            re1 = copy(re)
+            re1.append(e)
+            self._sub_set(nums, start_i+1, re1)
+
+            while start_i+1 < len(nums) and nums[start_i+1] == e:
+                start_i += 1
+            start_i += 1
+
+        return
+
+
 if __name__ == "__main__":
-    so = Solution1()
-    nums = [1,2,2]
+    so = Solution3()
+    nums = [1,1]
     re = so.subsetsWithDup(nums)
     print(re)

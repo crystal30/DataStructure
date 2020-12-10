@@ -50,19 +50,76 @@ class Solution2:
 
         return min_deep
 
-if __name__ == "__main__":
-    root = TreeNode(3)
-    root.left = TreeNode(9)
-    root.left.left = TreeNode(5)
-    root.right = TreeNode(20)
-    root.right.left = TreeNode(15)
-    root.right.right = TreeNode(7)
-    root.right.left.left = TreeNode(18)
-    root.right.left.right = TreeNode(19)
 
-    so = Solution2()
-    mindep = so.minDepth(root)
-    print(mindep)
+##############
+class Solution1:
+    def minDepth(self, root: TreeNode) -> int:
+        if root == None:
+            return 0
+
+        if root.right == None:
+            return self.minDepth(root.left) + 1
+        if root.left == None:
+            return self.minDepth(root.right) + 1
+        return min(self.minDepth(root.left), self.minDepth(root.right)) + 1
+
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution2:
+    def minDepth(self, root: TreeNode) -> int:
+        if root == None:
+            return 0
+        if root.left == None:
+            return self.minDepth(root.right) + 1
+        elif root.right == None:
+            return self.minDepth(root.left) + 1
+        else:
+            return min(self.minDepth(root.left), self.minDepth(root.right)) + 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

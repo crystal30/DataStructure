@@ -2,23 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8673070-d952-4eb2-945c-057b9ff5ea28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/93复原IP地址.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/200岛屿数量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/79单词搜索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_program/309最佳买卖股票时机含冷冻期.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_program/45跳跃游戏2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_program/53最大子序和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_program/55跳跃游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_program/5最长回文字串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_program/84柱状图中最大的矩形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/300最长上升子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/221最大正方形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/51N皇后.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/52N皇后2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/85最大矩形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks/32最长有效括号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks/394字符串解码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy_algorithm/392判断子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy_algorithm/435无重叠区间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy_algorithm/455分发饼干.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy_algorithm/820单词的压缩编码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/139单词拆分.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/300最长上升子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/322零钱兑换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/376摆动序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/377组合总和4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/416分割等和子集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/474一和零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/494目标和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knapsack/knapsack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find/1两数之和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/collision_pointer&amp;sliding_window/11盛水最多的容器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find/15三数之和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/167.py" beforeDir="false" afterPath="$PROJECT_DIR$/collision_pointer&amp;sliding_window/167两数之和2-输入有序数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/206.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linkedlist/206反转链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/209.py" beforeDir="false" afterPath="$PROJECT_DIR$/collision_pointer&amp;sliding_window/209长度最小的子数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/242.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find/242有效的字母异位词.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/290.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find/290单词规律.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/collision_pointer&amp;sliding_window/3无重复字符的最长子串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/349.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find/349两个数组的交集.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/350.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find/350两个数组的交集2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3SumCloset16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find/16最接近的三数之和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/438.py" beforeDir="false" afterPath="$PROJECT_DIR$/collision_pointer&amp;sliding_window/438找到字符串中所有字母异位词.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/451.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find/451根据字符串出现的频率排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/76.py" beforeDir="false" afterPath="$PROJECT_DIR$/collision_pointer&amp;sliding_window/76最小覆盖子串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linkedlist/83删除链表中重复元素.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/92.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linkedlist/92反转链表2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/101对称二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/101对称二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/104二叉树的最大深度.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/104二叉树的最大深度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/108将有序数组转换为二叉搜索树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/108将有序数组转换为二叉搜索树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/110平衡二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/110平衡二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/111二叉树的最小深度.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/111二叉树的最小深度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/112路径总和.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/112路径总和.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/113路径总和2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/113路径总和2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/129求根到叶子节点数字之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/129求根到叶子节点数字之和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/235二叉搜索树的公共祖先.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/235二叉搜索树的公共祖先.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/226翻转二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/226翻转二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/236二叉树的最近公共祖先.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/236二叉树的最近公共祖先.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/437路径总和3.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/437路径总和3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/450删除二叉搜索树中的节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/450删除二叉搜索树中的节点.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree&amp;Recursion/98验证二叉搜索树.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree&amp;Recursion/98验证二叉搜索树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/120三角形最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/120三角形最小路径和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/198打家劫舍.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/198打家劫舍.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/213打家劫舍2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/213打家劫舍2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/279完全平方数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/279完全平方数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/337打家劫舍3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/337打家劫舍3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/343整数拆分.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/343整数拆分.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/62不同路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/62不同路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/63不同路径2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/63不同路径2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/64最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/64最小路径和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/70爬楼梯.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/70爬楼梯.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_program/91解码方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_program/91解码方法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/131分割回文串.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/131分割回文串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/216组合总数3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/216组合总数3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/46全排列.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/46全排列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/47全排列2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/47全排列2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/17电话号码的字母组合.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/17电话号码的字母组合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking2/130被围绕的区域.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/130被围绕的区域.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking2/200岛屿数量.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/200岛屿数量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking2/417太平洋大西洋水流问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/417太平洋大西洋水流问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion&amp;backtracking2/79单词搜索.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion&amp;backtracking2/79单词搜索.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,46 +96,63 @@
     <SUITE FILE_PATH="coverage/leetcode$205.coverage" NAME="205 Coverage Results" MODIFIED="1573977876619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$279__1_.coverage" NAME="279完全平方数（图的广度遍历） (1) Coverage Results" MODIFIED="1575708621094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
     <SUITE FILE_PATH="coverage/leetcode$110.coverage" NAME="110平衡二叉树 Coverage Results" MODIFIED="1586698450063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$309.coverage" NAME="309 Coverage Results" MODIFIED="1606049174581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$401.coverage" NAME="401二进制手表 Coverage Results" MODIFIED="1587294532635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
+    <SUITE FILE_PATH="coverage/leetcode$101.coverage" NAME="101对称二叉树 Coverage Results" MODIFIED="1600877741472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$75.coverage" NAME="75 Coverage Results" MODIFIED="1572794401478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$3774.coverage" NAME="377组合总和4 Coverage Results" MODIFIED="1606404787921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knapsack" />
     <SUITE FILE_PATH="coverage/leetcode$125.coverage" NAME="125 Coverage Results" MODIFIED="1573572728462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$39.coverage" NAME="39组合总数 Coverage Results" MODIFIED="1578669166671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
-    <SUITE FILE_PATH="coverage/leetcode$257.coverage" NAME="257二叉树的所有路径 Coverage Results" MODIFIED="1586795491982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$435.coverage" NAME="435无重叠区间 Coverage Results" MODIFIED="1607225364275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy_algorithm" />
+    <SUITE FILE_PATH="coverage/leetcode$39.coverage" NAME="39组合总数 Coverage Results" MODIFIED="1603464706460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
+    <SUITE FILE_PATH="coverage/leetcode$257.coverage" NAME="257二叉树的所有路径 Coverage Results" MODIFIED="1602931182801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$2192.coverage" NAME="219存在重复元素2 Coverage Results" MODIFIED="1574512219111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$ReverseString344.coverage" NAME="ReverseString344 Coverage Results" MODIFIED="1539265908689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$testfunction.coverage" NAME="testfunction Coverage Results" MODIFIED="1573054184978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$15.coverage" NAME="15 Coverage Results" MODIFIED="1574093191871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$1262.coverage" NAME="126单词接龙2 Coverage Results" MODIFIED="1586537356242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
+    <SUITE FILE_PATH="coverage/leetcode$120.coverage" NAME="120三角形最小路径和 Coverage Results" MODIFIED="1604843275749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$ReverseVowelsOfaString.coverage" NAME="ReverseVowelsOfaString Coverage Results" MODIFIED="1539266888346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$283MoveZeroes.coverage" NAME="283MoveZeroes Coverage Results" MODIFIED="1538883480213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$binarySearch.coverage" NAME="binarySearch Coverage Results" MODIFIED="1572701574550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$1132.coverage" NAME="113路径总和2 Coverage Results" MODIFIED="1586966626750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$1132.coverage" NAME="113路径总和2 Coverage Results" MODIFIED="1602425894068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$143.coverage" NAME="143重排链表 Coverage Results" MODIFIED="1574863469431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
+    <SUITE FILE_PATH="coverage/leetcode$85.coverage" NAME="85最大矩形 Coverage Results" MODIFIED="1607605351420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
     <SUITE FILE_PATH="coverage/leetcode$ValidPalindrome125.coverage" NAME="ValidPalindrome125 Coverage Results" MODIFIED="1539264571972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$328.coverage" NAME="328奇偶链表 Coverage Results" MODIFIED="1574600141157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
+    <SUITE FILE_PATH="coverage/leetcode$417.coverage" NAME="417太平洋大西洋水流问题 Coverage Results" MODIFIED="1604810597546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
     <SUITE FILE_PATH="coverage/leetcode$102.coverage" NAME="102二叉树的层序遍历 Coverage Results" MODIFIED="1586179223503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
+    <SUITE FILE_PATH="coverage/leetcode$84.coverage" NAME="84柱状图中最大的矩形 Coverage Results" MODIFIED="1607446047766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$st1.coverage" NAME="st1 Coverage Results" MODIFIED="1539606423555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$347K.coverage" NAME="347前K个高频元素 Coverage Results" MODIFIED="1586530574356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PriorityQueues" />
     <SUITE FILE_PATH="coverage/leetcode$ReverseLinkedList206.coverage" NAME="ReverseLinkedList206 Coverage Results" MODIFIED="1540625518425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
+    <SUITE FILE_PATH="coverage/leetcode$416.coverage" NAME="416分割等和子集 Coverage Results" MODIFIED="1606228084250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knapsack" />
     <SUITE FILE_PATH="coverage/leetcode$144.coverage" NAME="144二叉树的前序遍历 Coverage Results" MODIFIED="1575377835254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks&amp;Queues" />
     <SUITE FILE_PATH="coverage/leetcode$ContainerWithMostWater11.coverage" NAME="ContainerWithMostWater11 Coverage Results" MODIFIED="1539328090966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$tt__1_.coverage" NAME="tt (1) Coverage Results" MODIFIED="1540546637112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$973.coverage" NAME="973 Coverage Results" MODIFIED="1578414321463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$32.coverage" NAME="32最长有效括号 Coverage Results" MODIFIED="1607449697564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks" />
     <SUITE FILE_PATH="coverage/leetcode$IntersectionofTwoArraysII350.coverage" NAME="IntersectionofTwoArraysII350 Coverage Results" MODIFIED="1539402264466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
+    <SUITE FILE_PATH="coverage/leetcode$452.coverage" NAME="45跳跃游戏2 Coverage Results" MODIFIED="1607613024655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$167.coverage" NAME="167 Coverage Results" MODIFIED="1573570696951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$2203.coverage" NAME="220存在重复的元素3 Coverage Results" MODIFIED="1574520947880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
-    <SUITE FILE_PATH="coverage/leetcode$tt.coverage" NAME="tt Coverage Results" MODIFIED="1578138888111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$tt.coverage" NAME="tt Coverage Results" MODIFIED="1589907033893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$2132.coverage" NAME="213打家劫舍2 Coverage Results" MODIFIED="1605414386128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
+    <SUITE FILE_PATH="coverage/leetcode$322.coverage" NAME="322零钱兑换 Coverage Results" MODIFIED="1606316375813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knapsack" />
+    <SUITE FILE_PATH="coverage/leetcode$392.coverage" NAME="392判断子序列 Coverage Results" MODIFIED="1607142053600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy_algorithm" />
     <SUITE FILE_PATH="coverage/leetcode$215.coverage" NAME="215 Coverage Results" MODIFIED="1573139924703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$149.coverage" NAME="149直线上最多的点 Coverage Results" MODIFIED="1574431139932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$isHappy202.coverage" NAME="isHappy202 Coverage Results" MODIFIED="1539503507498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$3Sum15.coverage" NAME="3Sum15 Coverage Results" MODIFIED="1539871622695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
+    <SUITE FILE_PATH="coverage/leetcode$51N.coverage" NAME="51N皇后 Coverage Results" MODIFIED="1604830641272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
     <SUITE FILE_PATH="coverage/leetcode$WordPattern290.coverage" NAME="WordPattern290 Coverage Results" MODIFIED="1539519330525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$86.coverage" NAME="86分隔链表 Coverage Results" MODIFIED="1574587823908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$148.coverage" NAME="148排序链表 Coverage Results" MODIFIED="1574698201139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$2163.coverage" NAME="216组合总数3 Coverage Results" MODIFIED="1587221222444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$222.coverage" NAME="222完全二叉树的节点个数 Coverage Results" MODIFIED="1586695323404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$632.coverage" NAME="63不同路径2 Coverage Results" MODIFIED="1605325574456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$SortCharactersByFrequency451.coverage" NAME="SortCharactersByFrequency451 Coverage Results" MODIFIED="1539527828323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$27RemoveElement.coverage" NAME="27RemoveElement Coverage Results" MODIFIED="1538886186001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$130.coverage" NAME="130被围绕的区域 Coverage Results" MODIFIED="1604592444930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
     <SUITE FILE_PATH="coverage/leetcode$RemoveDuplicates.coverage" NAME="RemoveDuplicates Coverage Results" MODIFIED="1540696067852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$451.coverage" NAME="451 Coverage Results" MODIFIED="1574000110692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$230k.coverage" NAME="230二叉搜索树中第k小的元素 Coverage Results" MODIFIED="1577282680804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
@@ -84,56 +167,72 @@
     <SUITE FILE_PATH="coverage/leetcode$MergeSortedArray88.coverage" NAME="MergeSortedArray88 Coverage Results" MODIFIED="1539222932434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$88.coverage" NAME="88 Coverage Results" MODIFIED="1573054655586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$19N.coverage" NAME="19删除链表的倒数第N个节点 Coverage Results" MODIFIED="1574782663427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
-    <SUITE FILE_PATH="coverage/leetcode$200.coverage" NAME="200岛屿数量 Coverage Results" MODIFIED="1587314407350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
+    <SUITE FILE_PATH="coverage/leetcode$200.coverage" NAME="200岛屿数量 Coverage Results" MODIFIED="1604418660633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
+    <SUITE FILE_PATH="coverage/leetcode$53.coverage" NAME="53最大子序和 Coverage Results" MODIFIED="1607608028415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
+    <SUITE FILE_PATH="coverage/leetcode$5.coverage" NAME="5最长回文字串 Coverage Results" MODIFIED="1607355904636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$containsDuplicate220.coverage" NAME="containsDuplicate220 Coverage Results" MODIFIED="1540550544970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$containsDuplicate219.coverage" NAME="containsDuplicate219 Coverage Results" MODIFIED="1540391304521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
     <SUITE FILE_PATH="coverage/leetcode$23K.coverage" NAME="23合并K个排序链表 Coverage Results" MODIFIED="1586449416721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PriorityQueues" />
     <SUITE FILE_PATH="coverage/leetcode$235.coverage" NAME="235二叉搜索树的公共祖先 Coverage Results" MODIFIED="1587049205197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$MinimumSizeSubarraySum209.coverage" NAME="MinimumSizeSubarraySum209 Coverage Results" MODIFIED="1539330782489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$3SumClosest.coverage" NAME="3SumClosest Coverage Results" MODIFIED="1574351929882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
-    <SUITE FILE_PATH="coverage/leetcode$402.coverage" NAME="40组合总和2 Coverage Results" MODIFIED="1579344824592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
+    <SUITE FILE_PATH="coverage/leetcode$64.coverage" NAME="64最小路径和 Coverage Results" MODIFIED="1604847505158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
+    <SUITE FILE_PATH="coverage/leetcode$402.coverage" NAME="40组合总和2 Coverage Results" MODIFIED="1603636391697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$17.coverage" NAME="17电话号码的字母组合 Coverage Results" MODIFIED="1577550133272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$100.coverage" NAME="100相同的树 Coverage Results" MODIFIED="1586598717701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$twoSum167.coverage" NAME="twoSum167 Coverage Results" MODIFIED="1539133622170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$numberOfBoomerangs447.coverage" NAME="numberOfBoomerangs447 Coverage Results" MODIFIED="1540350446586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$450.coverage" NAME="450删除二叉搜索树中的节点 Coverage Results" MODIFIED="1587057319257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
-    <SUITE FILE_PATH="coverage/leetcode$404.coverage" NAME="404左叶子之和 Coverage Results" MODIFIED="1586708320720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$450.coverage" NAME="450删除二叉搜索树中的节点 Coverage Results" MODIFIED="1603031571201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$404.coverage" NAME="404左叶子之和 Coverage Results" MODIFIED="1602941305310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$SortColors.coverage" NAME="SortColors Coverage Results" MODIFIED="1539161057492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$217.coverage" NAME="217存在重复元素 Coverage Results" MODIFIED="1574512956705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
+    <SUITE FILE_PATH="coverage/leetcode$343.coverage" NAME="343整数拆分 Coverage Results" MODIFIED="1605022742709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$438.coverage" NAME="438 Coverage Results" MODIFIED="1573747700947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$198.coverage" NAME="198打家劫舍 Coverage Results" MODIFIED="1605350092534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$ReverseLinkedList92.coverage" NAME="ReverseLinkedList92 Coverage Results" MODIFIED="1540632176517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$290.coverage" NAME="290 Coverage Results" MODIFIED="1573976595149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$75_1.coverage" NAME="75_1 Coverage Results" MODIFIED="1585229614636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySort" />
     <SUITE FILE_PATH="coverage/leetcode$2.coverage" NAME="2两数相加 Coverage Results" MODIFIED="1574601966224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
-    <SUITE FILE_PATH="coverage/leetcode$131.coverage" NAME="131分割回文串 Coverage Results" MODIFIED="1587137348372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
+    <SUITE FILE_PATH="coverage/leetcode$474.coverage" NAME="474一和零 Coverage Results" MODIFIED="1606660223437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knapsack" />
+    <SUITE FILE_PATH="coverage/leetcode$131.coverage" NAME="131分割回文串 Coverage Results" MODIFIED="1603377689050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$27.coverage" NAME="27 Coverage Results" MODIFIED="1572708150472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$376.coverage" NAME="376摆动序列 Coverage Results" MODIFIED="1607087618279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knapsack" />
     <SUITE FILE_PATH="coverage/leetcode$447.coverage" NAME="447 Coverage Results" MODIFIED="1574426232877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
-    <SUITE FILE_PATH="coverage/leetcode$4373.coverage" NAME="437路径总和3 Coverage Results" MODIFIED="1586975830996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$4373.coverage" NAME="437路径总和3 Coverage Results" MODIFIED="1602944996520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$349.coverage" NAME="349 Coverage Results" MODIFIED="1573914534363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$202.coverage" NAME="202 Coverage Results" MODIFIED="1573975512608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$79.coverage" NAME="79单词搜索 Coverage Results" MODIFIED="1587306160632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
+    <SUITE FILE_PATH="coverage/leetcode$3373.coverage" NAME="337打家劫舍3 Coverage Results" MODIFIED="1605439350325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
+    <SUITE FILE_PATH="coverage/leetcode$300.coverage" NAME="300最长上升子序列 Coverage Results" MODIFIED="1607085772545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knapsack" />
+    <SUITE FILE_PATH="coverage/leetcode$79.coverage" NAME="79单词搜索 Coverage Results" MODIFIED="1604333708234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
     <SUITE FILE_PATH="coverage/leetcode$1072.coverage" NAME="107二叉树的层序遍历2 Coverage Results" MODIFIED="1586179932801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
+    <SUITE FILE_PATH="coverage/leetcode$221.coverage" NAME="221最大正方形 Coverage Results" MODIFIED="1607360062073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking2" />
     <SUITE FILE_PATH="coverage/leetcode$MinimumWindowSubstring76.coverage" NAME="MinimumWindowSubstring76 Coverage Results" MODIFIED="1539396412052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$GroupAnagrams49.coverage" NAME="GroupAnagrams49 Coverage Results" MODIFIED="1540343342788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
+    <SUITE FILE_PATH="coverage/leetcode$62.coverage" NAME="62不同路径 Coverage Results" MODIFIED="1605194076267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$3SumCloset16.coverage" NAME="3SumCloset16 Coverage Results" MODIFIED="1539912379990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$20.coverage" NAME="20有效的括号 Coverage Results" MODIFIED="1574866446331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks&amp;Queues" />
+    <SUITE FILE_PATH="coverage/leetcode$55.coverage" NAME="55跳跃游戏 Coverage Results" MODIFIED="1607611055387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$226.coverage" NAME="226翻转二叉树 Coverage Results" MODIFIED="1586597493289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$203.coverage" NAME="203移除链表元素 Coverage Results" MODIFIED="1574606495260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
+    <SUITE FILE_PATH="coverage/leetcode$91.coverage" NAME="91解码方法 Coverage Results" MODIFIED="1605110633281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
     <SUITE FILE_PATH="coverage/leetcode$78.coverage" NAME="78子集 Coverage Results" MODIFIED="1587225228368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$26.coverage" NAME="26 Coverage Results" MODIFIED="1572706879105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$4452.coverage" NAME="445两数相加2 Coverage Results" MODIFIED="1574603915012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$209.coverage" NAME="209 Coverage Results" MODIFIED="1573655027506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$26RemoveDuplicates.coverage" NAME="26RemoveDuplicates Coverage Results" MODIFIED="1538915622038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$3.coverage" NAME="3 Coverage Results" MODIFIED="1573659028451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$279.coverage" NAME="279完全平方数（图的广度遍历） Coverage Results" MODIFIED="1586276639533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
+    <SUITE FILE_PATH="coverage/leetcode$279.coverage" NAME="279完全平方数 Coverage Results" MODIFIED="1605107105411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic_program" />
+    <SUITE FILE_PATH="coverage/leetcode$820.coverage" NAME="820单词的压缩编码 Coverage Results" MODIFIED="1607245792201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy_algorithm" />
     <SUITE FILE_PATH="coverage/leetcode$longestSubstr.coverage" NAME="longestSubstr Coverage Results" MODIFIED="1539158389309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
     <SUITE FILE_PATH="coverage/leetcode$234.coverage" NAME="234回文链表 Coverage Results" MODIFIED="1574864885172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
-    <SUITE FILE_PATH="coverage/leetcode$902.coverage" NAME="90子集2 Coverage Results" MODIFIED="1587270598097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
+    <SUITE FILE_PATH="coverage/leetcode$139.coverage" NAME="139单词拆分 Coverage Results" MODIFIED="1606664014991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knapsack" />
+    <SUITE FILE_PATH="coverage/leetcode$902.coverage" NAME="90子集2 Coverage Results" MODIFIED="1603722807298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$findKthLargest215.coverage" NAME="findKthLargest215 Coverage Results" MODIFIED="1573147570850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UsingArray" />
+    <SUITE FILE_PATH="coverage/leetcode$494.coverage" NAME="494目标和 Coverage Results" MODIFIED="1606748666339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knapsack" />
     <SUITE FILE_PATH="coverage/leetcode$80.coverage" NAME="80 Coverage Results" MODIFIED="1572709371825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$822.coverage" NAME="82删除排序链表中的重复元素2 Coverage Results" MODIFIED="1574612284007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$283.coverage" NAME="283 Coverage Results" MODIFIED="1572705617839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$1.coverage" NAME="1 Coverage Results" MODIFIED="1574003836213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1.coverage" NAME="1 Coverage Results" MODIFIED="1607620500483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$98.coverage" NAME="98验证二叉搜索树 Coverage Results" MODIFIED="1587052153209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
     <SUITE FILE_PATH="coverage/leetcode$tt1015.coverage" NAME="tt1015 Coverage Results" MODIFIED="1539785685188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$350.coverage" NAME="350 Coverage Results" MODIFIED="1573915739532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -143,7 +242,9 @@
     <SUITE FILE_PATH="coverage/leetcode$76.coverage" NAME="最小覆盖子串76 Coverage Results" MODIFIED="1585243135897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collision_pointer&amp;sliding_window" />
     <SUITE FILE_PATH="coverage/leetcode$472.coverage" NAME="47全排列2 Coverage Results" MODIFIED="1587220104122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$93IP.coverage" NAME="93复原IP地址 Coverage Results" MODIFIED="1587135227458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
-    <SUITE FILE_PATH="coverage/leetcode$236.coverage" NAME="236二叉树的最近公共祖先 Coverage Results" MODIFIED="1577376473332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$455.coverage" NAME="455分发饼干 Coverage Results" MODIFIED="1607141078230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy_algorithm" />
+    <SUITE FILE_PATH="coverage/leetcode$236.coverage" NAME="236二叉树的最近公共祖先 Coverage Results" MODIFIED="1602687895450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree&amp;Recursion" />
+    <SUITE FILE_PATH="coverage/leetcode$394.coverage" NAME="394字符串解码 Coverage Results" MODIFIED="1607619081621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks" />
     <SUITE FILE_PATH="coverage/leetcode$removeDuplicates80.coverage" NAME="removeDuplicates80 Coverage Results" MODIFIED="1538969725640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$147.coverage" NAME="147对链表进行插入排序 Coverage Results" MODIFIED="1574691375935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linkedlist" />
     <SUITE FILE_PATH="coverage/leetcode$4Sum18.coverage" NAME="4Sum18 Coverage Results" MODIFIED="1574265784361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Find" />
@@ -154,6 +255,7 @@
     <SUITE FILE_PATH="coverage/leetcode$11.coverage" NAME="11 Coverage Results" MODIFIED="1573650103911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$46.coverage" NAME="46全排列 Coverage Results" MODIFIED="1587138800208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion&amp;backtracking" />
     <SUITE FILE_PATH="coverage/leetcode$206.coverage" NAME="206 Coverage Results" MODIFIED="1574570325424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1594137617009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1683259177">
@@ -195,38 +297,43 @@
     <session id="58154746">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="4" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.8" value="8" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="96866" />
+          <entry key="dummy" value="187" />
+          <entry key="py" value="172998" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="96866" />
+          <entry key="PLAIN_TEXT" value="188" />
+          <entry key="Python" value="172998" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="174" />
+          <entry key="csv" value="2" />
+          <entry key="plot" value="1" />
+          <entry key="py" value="272" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="174" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="272" />
         </counts>
       </usages-collector>
     </session>
@@ -234,110 +341,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/47全排列2.py">
+        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/221最大正方形.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1452">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="58">
+              <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="29" selection-end-column="20" />
               <folding>
-                <marker date="1587220329680" expanded="true" signature="39:91" ph="..." />
-                <marker date="1587220329680" expanded="true" signature="924:985" ph="..." />
-                <marker date="1587220329680" expanded="true" signature="1015:1179" ph="..." />
+                <marker date="1607360062066" expanded="true" signature="39:176" ph="..." />
+                <marker date="1607360062066" expanded="true" signature="213:222" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/216组合总数3.py">
+        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/85最大矩形.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="44">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding>
-                <marker date="1587221272911" expanded="true" signature="61:88" ph="..." />
+                <marker date="1607606078501" expanded="true" signature="94:201" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py">
+        <entry file="file://$PROJECT_DIR$/Stacks/32最长有效括号.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              <folding>
-                <marker date="1587225293738" expanded="true" signature="403:408" ph="..." />
-                <marker date="1587225293738" expanded="true" signature="432:478" ph="..." />
-              </folding>
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py">
+        <entry file="file://$PROJECT_DIR$/Dynamic_program/55跳跃游戏.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="326">
+              <caret line="80" column="28" lean-forward="true" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
               <folding>
-                <marker date="1587294707107" expanded="true" signature="39:98" ph="..." />
-                <marker date="1587294707107" expanded="true" signature="129:491" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/79单词搜索.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-              <folding>
-                <marker date="1587306175449" expanded="true" signature="39:195" ph="..." />
+                <marker date="1607611055380" expanded="true" signature="64:120" ph="..." />
+                <marker date="1607611055380" expanded="true" signature="144:336" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/200岛屿数量.py">
+        <entry file="file://$PROJECT_DIR$/Dynamic_program/45跳跃游戏2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1936">
-              <caret line="97" column="61" lean-forward="true" selection-start-line="97" selection-start-column="61" selection-end-line="97" selection-end-column="61" />
-              <folding>
-                <element signature="e#48#267#0" />
-                <marker date="1587314452365" expanded="false" signature="62:296" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/654843592/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="2902" column="14" selection-start-line="2902" selection-start-column="14" selection-end-line="2902" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/654843592/_collections.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            <state relative-caret-position="78">
+              <caret line="87" column="10" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -370,57 +424,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Queue/199二叉树的右视图.py" />
-        <option value="$PROJECT_DIR$/Queue/279完全平方数（图的广度遍历）.py" />
-        <option value="$PROJECT_DIR$/priprityQueues.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/108将有序数组转换为二叉搜索树.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/230二叉搜索树中第k小的元素.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/236二叉树的最近公共祖先.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/17电话号码的字母组合.py" />
-        <option value="$PROJECT_DIR$/tt.py" />
-        <option value="$PROJECT_DIR$/973.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/77组合.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/131分割回文串.py" />
         <option value="$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py" />
         <option value="$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py" />
-        <option value="$PROJECT_DIR$/aaaa.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" />
-        <option value="$PROJECT_DIR$/MySort/75_1.py" />
-        <option value="$PROJECT_DIR$/collision_pointer&amp;sliding_window/76.py" />
-        <option value="$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py" />
-        <option value="$PROJECT_DIR$/Queues/102二叉树的层序遍历.py" />
-        <option value="$PROJECT_DIR$/Queues/107二叉树的层序遍历2.py" />
-        <option value="$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py" />
-        <option value="$PROJECT_DIR$/Queues/127单词接龙（图）.py" />
-        <option value="$PROJECT_DIR$/PriorityQueues/347前K个高频元素.py" />
-        <option value="$PROJECT_DIR$/PriorityQueues/23合并K个排序链表.py" />
-        <option value="$PROJECT_DIR$/Queues/126单词接龙2.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/104二叉树的最大深度.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/111二叉树的最小深度.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/226翻转二叉树.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/101对称二叉树.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/110平衡二叉树.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/112路径总和.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/113路径总和2.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/129求根到叶子节点数字之和.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/437路径总和3.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/235二叉搜索树的公共祖先.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/98验证二叉搜索树.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/450删除二叉搜索树中的节点.py" />
-        <option value="$PROJECT_DIR$/BinaryTree&amp;Recursion/93复原IP地址.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/131分割回文串.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/46全排列.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/47全排列2.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/216组合总数3.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py" />
         <option value="$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py" />
-        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking/300最长上升子序列.py" />
         <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/79单词搜索.py" />
         <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/200岛屿数量.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/130被围绕的区域.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/417太平洋大西洋水流问题.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/51.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/51N皇后.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/52N皇后2.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/70爬楼梯.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/120三角形最小路径和.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/64最小路径和.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/343整数拆分.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/279完全平方数.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/91解码方法.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/62不同路径.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/63不同路径2.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/198打家劫舍.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/213打家劫舍2.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/337打家劫舍3.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/309.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/309最佳买卖股票时机含冷冻期.py" />
+        <option value="$PROJECT_DIR$/knapsack/knapsack.py" />
+        <option value="$PROJECT_DIR$/knapsack/416分割等和子集.py" />
+        <option value="$PROJECT_DIR$/knapsack/322零钱兑换.py" />
+        <option value="$PROJECT_DIR$/knapsack/377组合总和4.py" />
+        <option value="$PROJECT_DIR$/knapsack/474一和零.py" />
+        <option value="$PROJECT_DIR$/knapsack/139单词拆分.py" />
+        <option value="$PROJECT_DIR$/knapsack/494目标和.py" />
+        <option value="$PROJECT_DIR$/knapsack/300最长上升子序列.py" />
+        <option value="$PROJECT_DIR$/knapsack/376摆动序列.py" />
+        <option value="$PROJECT_DIR$/greedy_algorithm/455分发饼干.py" />
+        <option value="$PROJECT_DIR$/greedy_algorithm/392判断子序列.py" />
+        <option value="$PROJECT_DIR$/greedy_algorithm/435无重叠区间.py" />
+        <option value="$PROJECT_DIR$/greedy_algorithm/820单词的压缩编码.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/5最长回文字串.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/221最大正方形.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/84柱状图中最大的矩形.py" />
+        <option value="$PROJECT_DIR$/Stacks/32最长有效括号.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/跳跃游戏2.py" />
+        <option value="$PROJECT_DIR$/Recursion&amp;backtracking2/85最大矩形.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/53最大子序和.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/55跳跃游戏.py" />
+        <option value="$PROJECT_DIR$/Dynamic_program/45跳跃游戏2.py" />
+        <option value="$PROJECT_DIR$/Stacks/394字符串解码.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/1.两数之和.py" />
       </list>
     </option>
   </component>
@@ -431,9 +485,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
+    <option name="x" value="-1" />
+    <option name="y" value="108" />
     <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -465,11 +520,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Find" />
+      <recent name="$PROJECT_DIR$/collision_pointer&amp;sliding_window" />
+      <recent name="$PROJECT_DIR$/Linkedlist" />
       <recent name="$PROJECT_DIR$/Recursion&amp;backtracking" />
       <recent name="$PROJECT_DIR$/MySort" />
-      <recent name="$PROJECT_DIR$/Find" />
-      <recent name="$PROJECT_DIR$/UsingArray/MoveElements" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -484,8 +539,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.200岛屿数量">
-    <configuration name="200岛屿数量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -493,12 +548,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion&amp;backtracking2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion&amp;backtracking2/200岛屿数量.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find/1两数之和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -507,7 +562,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="401二进制手表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="394字符串解码" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -515,12 +570,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion&amp;backtracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks/394字符串解码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -529,7 +584,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="78子集" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="45跳跃游戏2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -537,12 +592,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion&amp;backtracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic_program" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic_program/45跳跃游戏2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -551,7 +606,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="79单词搜索" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="53最大子序和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -559,12 +614,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion&amp;backtracking2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic_program" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion&amp;backtracking2/79单词搜索.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic_program/53最大子序和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -573,7 +628,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="90子集2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="55跳跃游戏" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -581,12 +636,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion&amp;backtracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic_program" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic_program/55跳跃游戏.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -596,19 +651,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.78子集" />
-      <item itemvalue="Python.90子集2" />
-      <item itemvalue="Python.401二进制手表" />
-      <item itemvalue="Python.79单词搜索" />
-      <item itemvalue="Python.200岛屿数量" />
+      <item itemvalue="Python.55跳跃游戏" />
+      <item itemvalue="Python.45跳跃游戏2" />
+      <item itemvalue="Python.53最大子序和" />
+      <item itemvalue="Python.394字符串解码" />
+      <item itemvalue="Python.1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.200岛屿数量" />
-        <item itemvalue="Python.79单词搜索" />
-        <item itemvalue="Python.401二进制手表" />
-        <item itemvalue="Python.90子集2" />
-        <item itemvalue="Python.78子集" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.394字符串解码" />
+        <item itemvalue="Python.45跳跃游戏2" />
+        <item itemvalue="Python.55跳跃游戏" />
+        <item itemvalue="Python.53最大子序和" />
       </list>
     </recent_temporary>
   </component>
@@ -637,20 +692,20 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.28077754" visible="true" weight="0.20600858" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.28077754" visible="true" weight="0.38472223" />
       <window_info id="Structure" order="1" sideWeight="0.7192225" side_tool="true" weight="0.20314735" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43990088" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34448576" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.2536232" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33091787" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283767" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50069445" side_tool="true" weight="0.4432367" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3283767" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.19454771" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32961586" />
@@ -811,12 +866,12 @@
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3SumCloset16.py</url>
+          <url>file://$PROJECT_DIR$/Find/16最接近的三数之和.py</url>
           <line>77</line>
           <option name="timeStamp" value="173" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3SumCloset16.py</url>
+          <url>file://$PROJECT_DIR$/Find/16最接近的三数之和.py</url>
           <line>78</line>
           <option name="timeStamp" value="174" />
         </line-breakpoint>
@@ -951,7 +1006,7 @@
           <option name="timeStamp" value="253" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/167.py</url>
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/167两数之和2-输入有序数组.py</url>
           <line>42</line>
           <option name="timeStamp" value="254" />
         </line-breakpoint>
@@ -961,27 +1016,27 @@
           <option name="timeStamp" value="255" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/209.py</url>
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/209长度最小的子数组.py</url>
           <line>67</line>
           <option name="timeStamp" value="260" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.py</url>
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/3无重复字符的最长子串.py</url>
           <line>48</line>
           <option name="timeStamp" value="261" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/438.py</url>
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/438找到字符串中所有字母异位词.py</url>
           <line>40</line>
           <option name="timeStamp" value="264" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/76.py</url>
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/76最小覆盖子串.py</url>
           <line>56</line>
           <option name="timeStamp" value="265" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/76.py</url>
+          <url>file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/76最小覆盖子串.py</url>
           <line>32</line>
           <option name="timeStamp" value="268" />
         </line-breakpoint>
@@ -1001,32 +1056,32 @@
           <option name="timeStamp" value="277" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/290.py</url>
+          <url>file://$PROJECT_DIR$/Find/290单词规律.py</url>
           <line>27</line>
           <option name="timeStamp" value="278" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/451.py</url>
+          <url>file://$PROJECT_DIR$/Find/451根据字符串出现的频率排序.py</url>
           <line>14</line>
           <option name="timeStamp" value="279" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1.py</url>
-          <line>66</line>
+          <url>file://$PROJECT_DIR$/Find/1两数之和.py</url>
+          <line>71</line>
           <option name="timeStamp" value="281" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/15.py</url>
+          <url>file://$PROJECT_DIR$/Find/15三数之和.py</url>
           <line>8</line>
           <option name="timeStamp" value="282" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/15.py</url>
+          <url>file://$PROJECT_DIR$/Find/15三数之和.py</url>
           <line>9</line>
           <option name="timeStamp" value="283" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/15.py</url>
+          <url>file://$PROJECT_DIR$/Find/15三数之和.py</url>
           <line>3</line>
           <option name="timeStamp" value="284" />
         </line-breakpoint>
@@ -1081,27 +1136,27 @@
           <option name="timeStamp" value="303" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/206.py</url>
+          <url>file://$PROJECT_DIR$/Linkedlist/206反转链表.py</url>
           <line>48</line>
           <option name="timeStamp" value="305" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/206.py</url>
+          <url>file://$PROJECT_DIR$/Linkedlist/206反转链表.py</url>
           <line>49</line>
           <option name="timeStamp" value="306" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/92.py</url>
+          <url>file://$PROJECT_DIR$/Linkedlist/92反转链表2.py</url>
           <line>64</line>
           <option name="timeStamp" value="308" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/92.py</url>
+          <url>file://$PROJECT_DIR$/Linkedlist/92反转链表2.py</url>
           <line>66</line>
           <option name="timeStamp" value="309" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/83.py</url>
+          <url>file://$PROJECT_DIR$/Linkedlist/83删除链表中重复元素.py</url>
           <line>52</line>
           <option name="timeStamp" value="310" />
         </line-breakpoint>
@@ -1247,47 +1302,42 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py</url>
-          <line>53</line>
+          <line>141</line>
           <option name="timeStamp" value="367" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py</url>
-          <line>51</line>
+          <line>139</line>
           <option name="timeStamp" value="368" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/110平衡二叉树.py</url>
-          <line>86</line>
+          <line>101</line>
           <option name="timeStamp" value="369" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py</url>
-          <line>117</line>
-          <option name="timeStamp" value="371" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/113路径总和2.py</url>
-          <line>80</line>
+          <line>150</line>
           <option name="timeStamp" value="372" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/113路径总和2.py</url>
-          <line>81</line>
+          <line>151</line>
           <option name="timeStamp" value="373" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/437路径总和3.py</url>
-          <line>90</line>
+          <line>133</line>
           <option name="timeStamp" value="375" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/450删除二叉搜索树中的节点.py</url>
-          <line>107</line>
+          <line>161</line>
           <option name="timeStamp" value="380" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/450删除二叉搜索树中的节点.py</url>
-          <line>24</line>
+          <line>25</line>
           <option name="timeStamp" value="383" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1302,12 +1352,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/236二叉树的最近公共祖先.py</url>
-          <line>56</line>
+          <line>181</line>
           <option name="timeStamp" value="388" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/17电话号码的字母组合.py</url>
-          <line>49</line>
+          <line>56</line>
           <option name="timeStamp" value="389" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1362,12 +1412,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py</url>
-          <line>43</line>
+          <line>68</line>
           <option name="timeStamp" value="411" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py</url>
-          <line>38</line>
+          <line>69</line>
           <option name="timeStamp" value="412" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1377,7 +1427,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py</url>
-          <line>52</line>
+          <line>76</line>
           <option name="timeStamp" value="419" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1426,39 +1476,24 @@
           <option name="timeStamp" value="442" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/111二叉树的最小深度.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="443" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/226翻转二叉树.py</url>
-          <line>73</line>
-          <option name="timeStamp" value="445" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py</url>
-          <line>35</line>
+          <line>93</line>
           <option name="timeStamp" value="446" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py</url>
-          <line>34</line>
+          <line>92</line>
           <option name="timeStamp" value="447" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/112路径总和.py</url>
-          <line>83</line>
+          <line>121</line>
           <option name="timeStamp" value="450" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py</url>
-          <line>61</line>
+          <line>99</line>
           <option name="timeStamp" value="451" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py</url>
-          <line>116</line>
-          <option name="timeStamp" value="452" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/235二叉搜索树的公共祖先.py</url>
@@ -1467,18 +1502,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/98验证二叉搜索树.py</url>
-          <line>51</line>
+          <line>92</line>
           <option name="timeStamp" value="455" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/93复原IP地址.py</url>
           <line>45</line>
           <option name="timeStamp" value="457" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/131分割回文串.py</url>
-          <line>79</line>
-          <option name="timeStamp" value="459" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py</url>
@@ -1497,7 +1527,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/79单词搜索.py</url>
-          <line>48</line>
+          <line>92</line>
           <option name="timeStamp" value="468" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1507,8 +1537,413 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/200岛屿数量.py</url>
-          <line>112</line>
+          <line>151</line>
           <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/130被围绕的区域.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/130被围绕的区域.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/417太平洋大西洋水流问题.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/63不同路径2.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/63不同路径2.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/63不同路径2.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/198打家劫舍.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/101对称二叉树.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/101对称二叉树.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/236二叉树的最近公共祖先.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="507" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/236二叉树的最近公共祖先.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/236二叉树的最近公共祖先.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/437路径总和3.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree&amp;Recursion/450删除二叉搜索树中的节点.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="516" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/131分割回文串.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="524" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/131分割回文串.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/300最长上升子序列.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/300最长上升子序列.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking/300最长上升子序列.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/130被围绕的区域.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="548" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/130被围绕的区域.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/51N皇后.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/120三角形最小路径和.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/343整数拆分.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/343整数拆分.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/279完全平方数.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="563" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/279完全平方数.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="567" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/91解码方法.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="568" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/91解码方法.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/198打家劫舍.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/213打家劫舍2.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/213打家劫舍2.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="575" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/213打家劫舍2.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="576" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/337打家劫舍3.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="577" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/309最佳买卖股票时机含冷冻期.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="581" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/309最佳买卖股票时机含冷冻期.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/309最佳买卖股票时机含冷冻期.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/309最佳买卖股票时机含冷冻期.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/309最佳买卖股票时机含冷冻期.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/416分割等和子集.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="590" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/322零钱兑换.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="592" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/322零钱兑换.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="595" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/322零钱兑换.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="596" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/377组合总和4.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="597" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/377组合总和4.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="599" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/377组合总和4.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/474一和零.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="601" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/474一和零.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="604" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/139单词拆分.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="612" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/300最长上升子序列.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="616" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/knapsack/300最长上升子序列.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="617" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy_algorithm/455分发饼干.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="618" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy_algorithm/455分发饼干.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="619" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy_algorithm/435无重叠区间.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="626" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy_algorithm/435无重叠区间.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="628" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy_algorithm/820单词的压缩编码.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="630" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy_algorithm/820单词的压缩编码.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="631" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy_algorithm/820单词的压缩编码.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="632" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy_algorithm/820单词的压缩编码.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="633" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/5最长回文字串.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="634" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/5最长回文字串.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="636" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/5最长回文字串.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="637" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/5最长回文字串.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="642" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/221最大正方形.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="643" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/84柱状图中最大的矩形.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="645" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/84柱状图中最大的矩形.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="646" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Stacks/32最长有效括号.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="650" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/55跳跃游戏.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="651" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/55跳跃游戏.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="652" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/45跳跃游戏2.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="654" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/45跳跃游戏2.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="655" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/85最大矩形.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="656" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/85最大矩形.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="658" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/85最大矩形.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="659" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion&amp;backtracking2/85最大矩形.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="661" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic_program/53最大子序和.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="662" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Stacks/394字符串解码.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="665" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Find/1两数之和.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="668" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1519,451 +1954,475 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="all_re" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>all_re</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py">
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/39组合总数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="968">
+          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
           <folding>
-            <marker date="1579344889890" expanded="true" signature="71:191" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/76.py" />
-    <entry file="file://$PROJECT_DIR$/MySort/75_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySort/88.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySort/75.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2112">
-          <caret line="96" column="32" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/973.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/最小覆盖子串76.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <marker date="1585243299520" expanded="true" signature="1349:1560" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks/20有效的括号.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks/144二叉树的前序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks/94二叉树的中序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks/145二叉树的后序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queues/102二叉树的层序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="40" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queues/107二叉树的层序遍历2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queues/103二叉树的锯齿形层序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queues/279完全平方数（图的广度遍历）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
-          <folding>
-            <element signature="e#65#579#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/104二叉树的最大深度.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queues/126单词接龙2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="107" column="41" lean-forward="true" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
-          <folding>
-            <element signature="e#64#2164#0" />
-            <marker date="1586537867376" expanded="true" signature="1485:1829" ph="..." />
-            <marker date="1586537867376" expanded="true" signature="1864:1873" ph="..." />
-            <marker date="1586537867376" expanded="true" signature="1864:1966" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueues/23合并K个排序链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <marker date="1586532296165" expanded="true" signature="187:373" ph="..." />
-            <marker date="1586532296165" expanded="true" signature="891:893" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/heapq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="129" column="4" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queues/127单词接龙（图）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <marker date="1586360238114" expanded="true" signature="1004:1910" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueues/347前K个高频元素.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="e#25#60#0" expanded="true" />
-            <marker date="1586531238818" expanded="true" signature="1284:2027" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="228" column="19" lean-forward="true" selection-start-line="228" selection-start-column="19" selection-end-line="228" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/111二叉树的最小深度.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-          <folding>
-            <marker date="1586576705312" expanded="true" signature="801:846" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/226翻转二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="16" selection-start-line="30" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/110平衡二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <marker date="1586698679214" expanded="true" signature="1126:1180" ph="..." />
-            <marker date="1586698679214" expanded="true" signature="1218:1471" ph="..." />
-            <marker date="1586698679214" expanded="true" signature="1763:1772" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/112路径总和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
-          <folding>
-            <marker date="1586701692259" expanded="true" signature="1027:1081" ph="..." />
-            <marker date="1586701692259" expanded="true" signature="1119:1372" ph="..." />
-            <marker date="1586701692259" expanded="true" signature="1427:1608" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/404左叶子之和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <marker date="1586708432313" expanded="true" signature="652:682" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/_pydecimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56540">
-          <caret line="2572" column="8" selection-start-line="2572" selection-start-column="8" selection-end-line="2572" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/100相同的树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/101对称二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <marker date="1586695477979" expanded="true" signature="200:254" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/257二叉树的所有路径.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
-          <folding>
-            <marker date="1586795491973" expanded="true" signature="216:273" ph="..." />
-            <marker date="1586795491973" expanded="true" signature="1015:1043" ph="..." />
-            <marker date="1586795491973" expanded="true" signature="1085:1228" ph="..." />
-            <marker date="1586795491973" expanded="true" signature="2523:2577" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/113路径总和2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-          <folding>
-            <marker date="1586966996262" expanded="true" signature="881:909" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/129求根到叶子节点数字之和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/437路径总和3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <marker date="1586975830989" expanded="true" signature="820:1310" ph="..." />
-            <marker date="1586975830989" expanded="true" signature="1310:1315" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/235二叉搜索树的公共祖先.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
-          <folding>
-            <marker date="1587049585006" expanded="true" signature="1234:1286" ph="..." />
-            <marker date="1587049585006" expanded="true" signature="1322:1682" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/98验证二叉搜索树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-          <folding>
-            <marker date="1587052211317" expanded="true" signature="289:656" ph="..." />
-            <marker date="1587052211317" expanded="true" signature="687:987" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree&amp;Recursion/450删除二叉搜索树中的节点.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <marker date="1587057319249" expanded="true" signature="2163:2267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/93复原IP地址.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/131分割回文串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-          <folding>
-            <marker date="1587137374471" expanded="true" signature="61:87" ph="..." />
-            <marker date="1587137374471" expanded="true" signature="931:958" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/46全排列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <marker date="1587138800200" expanded="true" signature="680:708" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/47全排列2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <marker date="1587220329680" expanded="true" signature="39:91" ph="..." />
-            <marker date="1587220329680" expanded="true" signature="924:985" ph="..." />
-            <marker date="1587220329680" expanded="true" signature="1015:1179" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/216组合总数3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <marker date="1587221272911" expanded="true" signature="61:88" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/78子集.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <marker date="1587225293738" expanded="true" signature="403:408" ph="..." />
-            <marker date="1587225293738" expanded="true" signature="432:478" ph="..." />
+            <marker date="1603464706452" expanded="true" signature="1173:1200" ph="..." />
+            <marker date="1603464706452" expanded="true" signature="1245:1333" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/90子集2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        <state relative-caret-position="280">
+          <caret line="70" column="14" lean-forward="true" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+          <folding>
+            <marker date="1603722873733" expanded="true" signature="1445:1472" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/401二进制手表.py">
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/300最长上升子序列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="220">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
-            <marker date="1587294707107" expanded="true" signature="39:98" ph="..." />
-            <marker date="1587294707107" expanded="true" signature="129:491" ph="..." />
+            <marker date="1603985503922" expanded="true" signature="63:124" ph="..." />
+            <marker date="1603985503922" expanded="true" signature="223:298" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/79单词搜索.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="380">
+          <caret line="93" column="13" lean-forward="true" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
           <folding>
-            <marker date="1587306175449" expanded="true" signature="39:195" ph="..." />
+            <marker date="1604333708227" expanded="true" signature="1488:1632" ph="..." />
+            <marker date="1604333708227" expanded="true" signature="1661:2018" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/654843592/_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/654843592/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="2902" column="14" selection-start-line="2902" selection-start-column="14" selection-end-line="2902" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/200岛屿数量.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1936">
-          <caret line="97" column="61" lean-forward="true" selection-start-line="97" selection-start-column="61" selection-end-line="97" selection-end-column="61" />
+        <state relative-caret-position="864">
+          <caret line="117" column="20" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
           <folding>
-            <element signature="e#48#267#0" />
-            <marker date="1587314452365" expanded="false" signature="62:296" ph="..." />
+            <marker date="1604418660627" expanded="true" signature="3401:3538" ph="..." />
+            <marker date="1604418660627" expanded="true" signature="3731:3984" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/130被围绕的区域.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+          <folding>
+            <marker date="1604593190714" expanded="true" signature="55:202" ph="..." />
+            <marker date="1604593190714" expanded="true" signature="2615:2763" ph="..." />
+            <marker date="1604593190714" expanded="true" signature="2794:3608" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/417太平洋大西洋水流问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <marker date="1604810597538" expanded="true" signature="39:242" ph="..." />
+            <marker date="1604810597538" expanded="true" signature="2395:2573" ph="..." />
+            <marker date="1604810597538" expanded="true" signature="3275:4329" ph="..." />
+            <marker date="1604810597538" expanded="true" signature="4360:4453" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/51N皇后.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="49" lean-forward="true" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <marker date="1604830641264" expanded="true" signature="39:163" ph="..." />
+            <marker date="1604830641264" expanded="true" signature="194:457" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/52N皇后2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/70爬楼梯.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/120三角形最小路径和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <marker date="1604843302613" expanded="true" signature="1087:1089" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/64最小路径和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/343整数拆分.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/279完全平方数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/91解码方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <marker date="1605110633273" expanded="true" signature="667:704" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/62不同路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/63不同路径2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/198打家劫舍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="104" column="13" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
+          <folding>
+            <marker date="1605350092528" expanded="true" signature="30:35" ph="..." />
+            <marker date="1605350092528" expanded="true" signature="1033:1089" ph="..." />
+            <marker date="1605350092528" expanded="true" signature="1109:1519" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/213打家劫舍2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="28" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+          <folding>
+            <marker date="1605414386123" expanded="true" signature="806:1215" ph="..." />
+            <marker date="1605414386123" expanded="true" signature="1245:1254" ph="..." />
+            <marker date="1605414386123" expanded="true" signature="1704:2632" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/337打家劫舍3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2552">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <marker date="1605448104565" expanded="true" signature="1673:1765" ph="..." />
+            <marker date="1605448104565" expanded="true" signature="2168:2200" ph="..." />
+            <marker date="1605448104565" expanded="true" signature="2220:2330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/309最佳买卖股票时机含冷冻期.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+          <folding>
+            <marker date="1606049174573" expanded="true" signature="64:161" ph="..." />
+            <marker date="1606049174573" expanded="true" signature="189:694" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/416分割等和子集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="125" column="28" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
+          <folding>
+            <marker date="1606312314005" expanded="true" signature="86:144" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/377组合总和4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding>
+            <marker date="1606404787913" expanded="true" signature="47:77" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking/40组合总和2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <marker date="1603636391690" expanded="true" signature="1160:1187" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/knapsack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
+          <folding>
+            <marker date="1606233998131" expanded="true" signature="58:133" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/376摆动序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/300最长上升子序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="72" column="24" lean-forward="true" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="e#762#1616#0" />
+            <marker date="1607085847944" expanded="true" signature="49:79" ph="..." />
+            <marker date="1607085847944" expanded="true" signature="245:311" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/494目标和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <marker date="1606748666332" expanded="true" signature="39:69" ph="..." />
+            <marker date="1606748666332" expanded="true" signature="135:259" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/139单词拆分.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <marker date="1606664014985" expanded="true" signature="39:71" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/474一和零.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="44" selection-start-line="44" selection-end-line="76" selection-end-column="32" />
+          <folding>
+            <element signature="e#1164#2161#0" />
+            <marker date="1606660223429" expanded="true" signature="54:85" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/322零钱兑换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-843">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <marker date="1606316804944" expanded="true" signature="47:103" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/654843592/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="519" column="4" selection-start-line="519" selection-start-column="4" selection-end-line="519" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy_algorithm/455分发饼干.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy_algorithm/435无重叠区间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="101" column="43" lean-forward="true" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="43" />
+          <folding>
+            <marker date="1607225722761" expanded="true" signature="2965:3126" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy_algorithm/392判断子序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy_algorithm/820单词的压缩编码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/5最长回文字串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks/20有效的括号.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/84柱状图中最大的矩形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks/32最长有效括号.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/221最大正方形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <marker date="1607360062066" expanded="true" signature="39:176" ph="..." />
+            <marker date="1607360062066" expanded="true" signature="213:222" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion&amp;backtracking2/85最大矩形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding>
+            <marker date="1607606078501" expanded="true" signature="94:201" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/53最大子序和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <marker date="1607608028408" expanded="true" signature="783:792" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/55跳跃游戏.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="80" column="28" lean-forward="true" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
+          <folding>
+            <marker date="1607611055380" expanded="true" signature="64:120" ph="..." />
+            <marker date="1607611055380" expanded="true" signature="144:336" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="381" selection-start-line="381" selection-end-line="381" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.两数之和.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collision_pointer&amp;sliding_window/3无重复字符的最长子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Find/1两数之和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks/394字符串解码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_program/45跳跃游戏2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="87" column="10" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
         </state>
       </provider>
     </entry>

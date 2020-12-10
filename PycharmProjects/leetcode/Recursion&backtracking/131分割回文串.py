@@ -74,9 +74,46 @@ class Solution1:
         return True
 
 
+class Solution3:
+    def __init__(self):
+        self.res = []
+    def partition(self, s: str):
+        self._partition(s, [])
+        return self.res
+
+    def _partition(self, s, re):
+        len_s = len(s)
+        if len_s == 0:
+            self.res.append(re)
+            return
+
+        for i in range(len_s):
+            sub_s = s[:i+1]
+            if self._isvalid(sub_s):
+                re1 = copy(re)
+                re1.append(sub_s)
+                self._partition(s[i+1:], re1)
+
+        return
+
+    def _isvalid(self, sub_s):
+        len_sub_s = len(sub_s)
+        if len_sub_s == 1:
+            return True
+        mid = len_sub_s // 2
+        for i in range(mid):
+            right = len_sub_s - 1 - i
+            if sub_s[i] != sub_s[right]:
+                return False
+
+        return True
+
+
+
 if __name__ == "__main__":
-    so = Solution1()
-    s = 'aab'
+    so = Solution3()
+    s = 'efe'
+    # re = so._isvalid(s)
     re = so.partition(s)
     print(re)
 

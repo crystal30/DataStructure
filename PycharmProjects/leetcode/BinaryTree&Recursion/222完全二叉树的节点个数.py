@@ -28,6 +28,64 @@ class Solution:
         return res
 #######################
 #这个题目需要再思考一下，为什么是这样做的呢
+class Solution1:
+    def countNodes(self, root: TreeNode) -> int:
+        if root == None:
+            return 0
+        return self.countNodes(root.left) + self.countNodes(root.right) + 1
+
+
+
+class Solution3:
+    def countNodes(self, root: TreeNode) -> int:
+        if root == None:
+            return 0
+        return 1 + self.countNodes(root.left) + self.countNodes(root.right)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 if __name__ == "__main__":
     so = Solution()

@@ -43,3 +43,55 @@ class Solution:
 
         deep = max(self.maxDepth2(root.left), self.maxDepth2(root.right)) + 1
         return deep
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution1:
+    def maxDepth(self, root: TreeNode) -> int:
+        if root == None:
+            return 0
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

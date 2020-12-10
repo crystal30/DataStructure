@@ -1,5 +1,5 @@
 # Definition for a binary tree node.
-
+# -*- coding: utf-8 -*-
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -109,20 +109,57 @@ class Solution1:
         root.right = self.__create_tree(arr, root.right, 2*i+2)
         return root
 
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+from copy import copy
+class Solution3:
+    def create_tree(self, arr):
+        return self._create_tree(arr, None, 0)
+
+    def _create_tree(self, arr, root, i):
+        if i >= len(arr):
+            return None
+        if arr[i] == None:
+            arr.insert(2*i+1, None)
+            arr.insert(2*i+2, None)
+            return None
+
+        root = TreeNode(arr[i])
+        root.left = self._create_tree(arr, root.left, 2*i+1)
+        root.right = self._create_tree(arr, root.right, 2*i+2)
+        return root
+
+    def __init__(self):
+        self.re = []
+    def binaryTreePaths(self, root: TreeNode):
+        self._binary_tree_path(root, [])
+        return ["->".join(e) for e in self.re]
+
+    def _binary_tree_path(self, root, sub_re):
+        if root == None:
+            return
+        if root.left == None and root.right == None:
+            self.re.append(sub_re)
+
+        sub_re.append(str(root.val))
+        self._binary_tree_path(root.left, copy(sub_re))
+        self._binary_tree_path(root.right, copy(sub_re))
+        return
+
+
 if __name__ == "__main__":
 
-    so = Solution1()
+    so = Solution3()
     arr = [1,2,3,None,5]
-    # root = so.create_tree(arr)
-    # re = so.binaryTreePaths(root)
-    # print(re)
+    root = so.create_tree(arr)
+    re = so.binaryTreePaths(root)
+    print(re)
+    # aa = ["1","2","3"]
+    # print("->".join(aa))
 
-    def multiplier():
-        ret = [lambda x: i*x for i in range(4)]
-        return ret
-
-    print([m(2) for m in multiplier()])
-
-    print(list(filter(lambda n: n%2 == 1, range(1, 10))))
 
 

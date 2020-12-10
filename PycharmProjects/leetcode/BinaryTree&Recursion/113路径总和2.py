@@ -63,21 +63,91 @@ class Solution1:
 
         return
 
+class Solution3:
+    def pathSum(self, root: TreeNode, sum: int):
+        self.path(root, sum, 0, [])
+
+    def path(self, root, sum, level, re):
+        if root == None:
+            return re
+
+        if root.left == root.right == None:
+            if sum == root.val:
+                if len(re)==0:
+                    re.append([root.val])
+                else:
+                    re[level] = re[level].append(root.val)
+                return re
+            else:
+                return []
+
+        if len(re)==0:
+            re.append([root.val])
+        else:
+            re[level] = re[level].append(root.val)
+
+        if root.left == None:
+            return self.path(root.right, sum-root.val, level+1, re)
+
+        if root.right == None:
+            return self.path(root.left, sum-root.val, level+1, re)
+
+        re_l = self.path(root.left, sum - root.val, level + 1, re)
+        re_r = self.path(root.right, sum - root.val, level + 1, re)
+        return re_l.extend(re_r)
+
+
+# 求总共有几条路径
+class TreeNode1:
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
+from copy import copy
+def creat_tree(arr):
+    return _create_tree(arr, None, 0)
+
+
+def _create_tree(arr, root, i):
+    if i >= len(arr):
+        return None
+    if arr[i] == None:
+        arr.insert(2 * i + 1, None)
+        arr.insert(2 * i + 2, None)
+        return None
+    root = TreeNode(arr[i])
+    root.left = _create_tree(arr, root.left, 2 * i + 1)
+    root.right = _create_tree(arr, root.right, 2 * i + 2)
+    return root
+
+class Solution2:
+    def __init__(self):
+        self.all_re = []
+
+    def pathSum(self, root: TreeNode, sum: int):
+
+        self._hasPathSum1(root, sum, [])
+        return self.all_re
+
+    def _hasPathSum1(self, root, sum, re):
+        if root == None:
+            return
+        if root.left == None and root.right == None:
+            if root.val == sum:
+                re.append(root.val)
+                self.all_re.append(copy(re))
+                return
+        re.append(root.val)
+        self._hasPathSum1(root.left, sum-root.val, copy(re))
+        self._hasPathSum1(root.right, sum-root.val, copy(re))
+
+
+
 if __name__ == "__main__":
-    root = TreeNode(5)
-    root.left = TreeNode(4)
-    root.right = TreeNode(8)
-    root.left.left = TreeNode(11)
-    root.left.left.left = TreeNode(7)
-    root.left.left.right = TreeNode(2)
-
-    root.right = TreeNode(8)
-    root.right.left = TreeNode(13)
-    root.right.right = TreeNode(4)
-    root.right.right.left = TreeNode(5)
-    root.right.right.right = TreeNode(1)
-
-    so = Solution1()
+    arr = [5,4,8,11,None,13,4,7,2,None,None,5,1]
+    so = Solution2()
+    root = creat_tree(arr)
     re = so.pathSum(root, 22)
     print(re)
 

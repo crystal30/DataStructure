@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff34fe74-0708-4e26-b09f-9a5833428e6f" name="Default Changelist" comment="" />
+    <list default="true" id="ff34fe74-0708-4e26-b09f-9a5833428e6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/100相同的树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/100相同的树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/101对称二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/101对称二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/110平衡二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/110平衡二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/111二叉树的最小深度.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/111二叉树的最小深度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/222完全二叉树的节点个数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/226翻转二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/BinaryTree&amp;Recursion/226翻转二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/120三角形最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/120三角形最小路径和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/198打家劫舍.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/198打家劫舍.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/213打家劫舍2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/213打家劫舍2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/279完全平方数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/279完全平方数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/337打家劫舍3.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/337打家劫舍3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/343整数拆分.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/343整数拆分.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/62不同路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/62不同路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/63不同路径2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/63不同路径2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/64最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/64最小路径和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/70爬楼梯.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/70爬楼梯.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Dynamic_program/91解码方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Dynamic_program/91解码方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Recursion&amp;backtracking2/130被围绕的区域.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Recursion&amp;backtracking2/130被围绕的区域.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Recursion&amp;backtracking2/417太平洋大西洋水流问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Recursion&amp;backtracking2/417太平洋大西洋水流问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/tt.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +34,10 @@
     <session id="-1133283956">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -38,7 +61,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -55,6 +77,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,15 +115,9 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -108,11 +125,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -97,8 +97,47 @@ class Solution1:
         return startx >= 0 and startx < self.grid_rows \
                and starty >= 0 and starty < self.grid_columns
 
+
+
+class Solution3:
+    def __init__(self):
+        self.direction = [[-1, 0], [0, 1], [1, 0], [0, -1]]
+        self.rows = 0
+        self.cols = 0
+        self.visited = None
+    def numIslands(self, grid):
+        self.rows = len(grid)
+        self.cols = len(grid[0])
+        self.visited = [[False for i in range(self.cols)] for j in range(self.rows)]
+        count = 0
+        for i in range(self.rows):
+            for j in range(self.cols):
+                if grid[i][j] == "1" and self.visited[i][j] == False:
+                    self._num_is_lands(grid, i, j)
+                    count += 1
+        return count
+
+    def _num_is_lands(self, grid, start_x, start_y):
+        self.visited[start_x][start_y] = True
+        for direction in self.direction:
+            new_start_x = start_x + direction[0]
+            new_start_y = start_y + direction[1]
+            if self._isarea(new_start_x, new_start_y) \
+                and self.visited[new_start_x][new_start_y] == False \
+                and grid[new_start_x][new_start_y] == "1":
+                self._num_is_lands(grid, new_start_x, new_start_y)
+
+        return
+
+    def _isarea(self, x, y):
+        if x >= 0 and x < self.rows and y >= 0 and y < self.cols:
+            return True
+        else:
+            return False
+
+
 if __name__ == "__main__":
-    so = Solution1()
+    so = Solution3()
     '''
     11000
     11000

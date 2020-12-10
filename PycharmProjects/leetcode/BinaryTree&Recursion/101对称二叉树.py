@@ -52,3 +52,164 @@ class Solution:
 
         return self.is_same_tree(root1.left, root2.left) and self.is_same_tree(root1.right, root2.right)
 
+#################
+class Solution1:
+    def isSymmetric(self, root: TreeNode) -> bool:
+        if root == None:
+            return True
+        root.left = self.invertTree(root.left)
+        return self.isSameTree(root.left, root.right)
+
+    def invertTree(self, root):
+        if root == None:
+            return None
+        root.left, root.right = self.invertTree(root.right), self.invertTree(root.left)
+        return root
+
+    def isSameTree(self, p, q):
+        if p == None and q == None:
+            return True
+        if (p == None and q != None) or (p != None and q == None) or (p.val != q.val):
+            return False
+
+        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+
+# Definition for a binary tree node.
+class TreeNode:
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
+def creat_tree(arr):
+    return _create_tree(arr, None, 0)
+
+
+def _create_tree(arr, root, i):
+    if i >= len(arr):
+        return None
+    if arr[i] == None:
+        arr.insert(2 * i + 1, None)
+        arr.insert(2 * i + 2, None)
+        return None
+    root = TreeNode(arr[i])
+    root.left = _create_tree(arr, root.left, 2 * i + 1)
+    root.right = _create_tree(arr, root.right, 2 * i + 2)
+    return root
+
+
+class Solution3:
+    def isSymmetric(self, root: TreeNode) -> bool:
+        if root == None:
+            return True
+        if root.left == root.right == None:
+            return True
+        if (root.left == None and root.right != None) or (root.left != None and root.right == None):
+            return False
+
+        root.left = self.invert_tree(root.left)
+        return self.is_same_tree(root.left, root.right)
+
+    def invert_tree(self, root):
+        if root == None:
+            return root
+        root.left, root.right = self.invert_tree(root.right), self.invert_tree(root.left)
+        return root
+
+    def is_same_tree(self, p, q):
+        if p == q == None:
+            return True
+        if (p != None and q == None) or (p == None and q != None):
+            return False
+        if p.val != q.val:
+            return False
+        return self.is_same_tree(p.left, q.left) and self.is_same_tree(p.right, q.right)
+
+if __name__ == "__main__":
+    so = Solution3()
+    root = creat_tree([1,2,2,3,4,4,3])
+    so.isSymmetric(root)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,3 +1,4 @@
+
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, x):
@@ -92,17 +93,70 @@ class Solution1:
 
         Node.left = self.del_min_node(Node.left)
 
+class Solution3:
+    def create_tree(self, arr):
+        return self._crate_tree(arr, None, 0)
+
+    def _crate_tree(self, arr, root, i):
+        if i >= len(arr):
+            return None
+        if arr[i] == None:
+            arr.insert(2*i+1, None)
+            arr.insert(2*i+2, None)
+            return None
+        root = TreeNode(arr[i])
+        root.left = self._crate_tree(arr, root, 2*i+1)
+        root.right = self._crate_tree(arr, root, 2*i+2)
+        return root
+
+    def deleteNode(self, root: TreeNode, key: int) -> TreeNode:
+        if root == None:
+            return root
+
+        if root.val == key:
+            # root 只有左子树
+            if root.right == None:
+                return root.left
+            # root 只有右子树
+            if root.left == None:
+                return root.right
+
+            # root既有左子树，又有右子树
+            min_node = self.find_min_node(root.right)  # 先找到右子树最小的节点min_node
+            node = self.delete_min_node(root.right) # 删除右子树最小的节点，
+            min_node.left = root.left
+            min_node.right = node
+            return min_node
+
+        if root.val > key:
+            root.left = self.deleteNode(root.left, key)
+
+        if root.val < key:
+            root.right = self.deleteNode(root.right, key)
+
+        return root
+
+    def find_min_node(self, node):
+        if node == None:
+            return None
+        if node.left == None:
+            return node
+        return self.find_min_node(node.left)
+
+    def delete_min_node(self, node):
+        if node == None:
+            return None
+        if node.left == None:
+            return node.right
+        node.left = self.delete_min_node(node.left)
+        return node
+
 
 if __name__ == "__main__":
-    root = TreeNode(5)
-    root.left = TreeNode(3)
-    root.right = TreeNode(6)
-
-    root.left.left = TreeNode(2)
-    root.left.right = TreeNode(4)
-
-    root.right.right = TreeNode(7)
-
-    so = Solution1()
-    re = so.deleteNode(root, 3)
+    so = Solution3()
+    arr = [5,3,6,2,4,None,7]
+    root = so.create_tree(arr)
+    re = so.deleteNode(root, 5)
+    print("ok")
+    # re = so.deleteNode(arr, 3)
     pass

@@ -75,6 +75,44 @@ class Solution1:
 ######################################
 ## 该道题目没有一次做对哦
 
+class Solution4:
+    def hasPathSum(self, root: TreeNode, sum: int) -> bool:
+        if root == None:
+            return False
+        if root.left == None and root.right == None:
+            if root.val == sum:
+                return True
+            else:
+                return False
+
+        return self.hasPathSum(root.left, sum-root.val) or self.hasPathSum(root.right, sum-root.val)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 if __name__ == "__main__":
     so = Solution1()
     # arr = [5,4,8,11,None,13,4,7,2,None,None,None,1]

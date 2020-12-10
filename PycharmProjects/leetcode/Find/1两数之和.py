@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Solution:
     def twoSum(self, nums, target: int):
 
@@ -38,11 +39,15 @@ class Solution:
                 nums_dict[nums[i]].append(i)
         for i in range(n):
             find_e = target - nums[i]
-            if find_e in nums_dict:
-                if len(nums_dict[find_e]) == 2:
-                    return nums_dict[find_e]
-                elif len(nums_dict[find_e]) == 1 and nums_dict[find_e] != [i]:
-                    return [i] + nums_dict[find_e]
+            if find_e in nums_dict.keys():
+                find_e_indexs = nums_dict[find_e]
+                if len(find_e_indexs) >= 2:
+                    for op_i in find_e_indexs:
+                        if op_i != i:
+                            return [i, op_i]
+                else:
+                    if nums_dict[find_e] != [i]:
+                        return [i] + nums_dict[find_e]
 
     # 由于数组中两个位置的值可能是一样的，故只将v前面的元素放入查找表中
     # 感觉这种方法不太好想
@@ -62,7 +67,7 @@ class Solution:
 
 if __name__ == "__main__":
     so = Solution()
-    nums = [3, 2, 4]
-    target = 6
+    nums = [7,2,2,11,15]
+    target = 9
     re = so.twoSum1(nums, target)
     print(re)

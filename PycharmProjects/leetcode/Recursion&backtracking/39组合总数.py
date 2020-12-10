@@ -37,8 +37,33 @@ class Solution:
         return
 
 
+from copy import copy
+class Solution3:
+    def __init__(self):
+        self.res = []
+    def combinationSum(self, candidates, target):
+        self._combination_sum(candidates, target, 0, [])
+        return self.res
+
+
+    def _combination_sum(self, candidates, target, start_i, re):
+        if target == 0:
+            self.res.append(re)
+            return
+
+        for i in range(start_i, len(candidates)):
+            e = candidates[i]
+            if e <= target:
+                re1 = copy(re)
+                re1.append(e)
+                self._combination_sum(candidates, target-e, i, re1)
+            if re == []:
+                start_i += 1
+        return
+
+
 if __name__ == "__main__":
-    so = Solution()
+    so = Solution3()
     candidates = [2,3,5]
     target = 8
     re = so.combinationSum(candidates, target)

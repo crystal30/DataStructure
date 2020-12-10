@@ -65,12 +65,61 @@ class Solution:
                 root.left = self.__create_tree(arr, root.left, 2*i +1)
                 root.right = self.__create_tree(arr, root.right, 2*i +2)
                 return root
+#####
+class Solution:
+    def invertTree(self, root: TreeNode) -> TreeNode:
+        if root == None:
+            return root
 
-if __name__ == "__main__":
-    so = Solution()
-    arr = [4,2,7,1,3,6,9]
-    root = so.creat_tree(arr)
-    so.invertTree(root)
-    pass
+        root.left, root.right = self.invertTree(root.right), self.invertTree(root.left)
+        return root
+
+class Solution:
+    def invertTree(self, root: TreeNode) -> TreeNode:
+        if root == None:
+            return root
+        root.right, root.left = self.invertTree(root.left), self.invertTree(root.right)
+        return root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -45,6 +45,47 @@ class Solution:
             return False
         return self.right_tree(root.left, compare_val) and self.right_tree(root.right, compare_val)
 
+class Solution3:
+    def isValidBST(self, root: TreeNode) -> bool:
+        if root == None:
+            return True # ?
+        if root.left == root.right == None:
+            return True # ?
+        if root.left != None and not self.is_left(root.left, root.val):
+            return False
+        if root.right != None and not self.is_right(root.right, root.val):
+            return False
+        return self.isValidBST(root.left) and self.isValidBST(root.right)
+
+
+    def is_left(self, root, p):
+        if root == None:
+            return True
+        if root.val > p:
+            return False
+        return self.is_left(root.left, p) and self.is_left(root.right, p)
+
+    def is_right(self, root, p):
+        if root == None:
+            return True
+        if root.val < p:
+            return False
+        return self.is_right(root.left, p) and self.is_right(root.right, p)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 if __name__ == "__main__":
     so = Solution()
     arr = [5, 1, 8, 0, 6, 4, 9]

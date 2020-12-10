@@ -74,6 +74,21 @@ class Solution1:
 ##############
 # 思考：该方法时间击败了 12.72%的用户，内存击败了 22.22%的用户
 # 是否有更好的解决办法呢
+class Solution2:
+    def isBalanced(self, root: TreeNode) -> bool:
+        if root == None:
+            return True
+        if abs(self.maxdeep(root.left) - self.maxdeep(root.right)) > 1:
+            return False
+
+        return self.isBalanced(root.left) and self.isBalanced(root.right)
+
+    def maxdeep(self, root):
+        if root == None:
+            return 0
+        return max(self.maxdeep(root.left), self.maxdeep(root.right)) + 1
+
+
 
 if __name__ == "__main__":
 
